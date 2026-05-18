@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3APython.svg&ved=0CBYQjRxqFwoTCOjExfrWwZQDFQAAAAAdAAAAABAG&opi=89978449"
        alt="snake" /></a>
 </div>
 
