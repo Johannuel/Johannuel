@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
- <strong><h1>Fav</h1></strong>
+ <strong><h1>Favorite language</h1></strong>
   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
        alt="snake" width="150" /></a>
 </div>
