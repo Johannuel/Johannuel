@@ -13,7 +13,7 @@
 <!--- snake -->
 <div align="center">
   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
-       heigth="200"alt="snake" /></a>
+       alt="snake" width="100" /></a>
 </div>
 
 
