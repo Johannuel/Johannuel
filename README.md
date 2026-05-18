@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3APython.svg&ved=0CBYQjRxqFwoTCOjExfrWwZQDFQAAAAAdAAAAABAG&opi=89978449"
+  <img  src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&ved=0CBYQjRxqFwoTCOjExfrWwZQDFQAAAAAdAAAAABAh&opi=89978449"
        alt="snake" /></a>
 </div>
 
