@@ -1,4 +1,4 @@
-
+<img width="2425" height="1736" alt="image" src="https://github.com/user-attachments/assets/214c5817-113b-4427-bed7-49f91608e034" />
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -50,6 +50,9 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
+  
+  <img align="center" src=:https://www.codedex.io/images/badges/memoryBadge.png" />
+ 
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
   <br></br>
