@@ -164,7 +164,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 - Probar, corregir, repetir.
 - Documentar tambien construye.
 
-## Profiles
+## Social
 
 <table>
   <tr>
