@@ -3,20 +3,21 @@
   <desc id="desc">Dark, futuristic profile banner with Y2K sports-inspired accents.</desc>
   <defs>
     <linearGradient id="bg" x1="120" y1="20" x2="1480" y2="500" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#030406"/>
-      <stop offset="0.42" stop-color="#0A0D12"/>
-      <stop offset="1" stop-color="#151C28"/>
+      <stop offset="0" stop-color="#06040A"/>
+      <stop offset="0.36" stop-color="#1A0820"/>
+      <stop offset="0.68" stop-color="#3B0E32"/>
+      <stop offset="1" stop-color="#6B1330"/>
     </linearGradient>
     <linearGradient id="accent" x1="220" y1="150" x2="1380" y2="390" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#F5F7FA" stop-opacity="0.96"/>
-      <stop offset="0.22" stop-color="#BCC6D6" stop-opacity="0.92"/>
-      <stop offset="0.48" stop-color="#00E5FF" stop-opacity="0.96"/>
-      <stop offset="0.72" stop-color="#9CFF3A" stop-opacity="0.95"/>
+      <stop offset="0.18" stop-color="#FF77D6" stop-opacity="0.95"/>
+      <stop offset="0.44" stop-color="#FF2E88" stop-opacity="0.98"/>
+      <stop offset="0.68" stop-color="#C6FF2A" stop-opacity="0.92"/>
       <stop offset="1" stop-color="#F5F7FA" stop-opacity="0.9"/>
     </linearGradient>
     <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#1A2130" stop-opacity="0.92"/>
-      <stop offset="1" stop-color="#0A0D12" stop-opacity="0.95"/>
+      <stop offset="0" stop-color="#27142D" stop-opacity="0.94"/>
+      <stop offset="1" stop-color="#0A0B10" stop-opacity="0.95"/>
     </linearGradient>
     <linearGradient id="chrome" x1="260" y1="0" x2="1440" y2="0">
       <stop offset="0" stop-color="#FFFFFF"/>
@@ -27,7 +28,12 @@
       <stop offset="1" stop-color="#FFFFFF"/>
     </linearGradient>
     <pattern id="grid" width="58" height="58" patternUnits="userSpaceOnUse">
-      <path d="M 58 0 H 0 V 58" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/>
+      <path d="M 58 0 H 0 V 58" fill="none" stroke="#FFFFFF" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+    <pattern id="dots" width="42" height="42" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="2" fill="#FFFFFF" fill-opacity="0.08"/>
+      <circle cx="28" cy="14" r="1.8" fill="#FF77D6" fill-opacity="0.08"/>
+      <circle cx="16" cy="30" r="1.6" fill="#C6FF2A" fill-opacity="0.08"/>
     </pattern>
     <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="24" />
@@ -39,22 +45,36 @@
 
   <rect width="1600" height="520" rx="36" fill="url(#bg)"/>
   <rect width="1600" height="520" rx="36" fill="url(#grid)"/>
+  <rect width="1600" height="520" rx="36" fill="url(#dots)"/>
 
-  <ellipse cx="340" cy="106" rx="260" ry="96" fill="#00E5FF" fill-opacity="0.1" filter="url(#blur)"/>
-  <ellipse cx="1290" cy="110" rx="220" ry="82" fill="#7CFF6B" fill-opacity="0.1" filter="url(#blur)"/>
-  <ellipse cx="820" cy="460" rx="360" ry="72" fill="#FFFFFF" fill-opacity="0.04" filter="url(#blur)"/>
+  <ellipse cx="320" cy="110" rx="280" ry="102" fill="#FF2E88" fill-opacity="0.14" filter="url(#blur)"/>
+  <ellipse cx="1280" cy="116" rx="240" ry="88" fill="#C6FF2A" fill-opacity="0.12" filter="url(#blur)"/>
+  <ellipse cx="820" cy="460" rx="360" ry="72" fill="#FFFFFF" fill-opacity="0.05" filter="url(#blur)"/>
+  <ellipse cx="820" cy="260" rx="120" ry="120" fill="#FF77D6" fill-opacity="0.08" filter="url(#blur)"/>
+  <ellipse cx="1240" cy="330" rx="160" ry="76" fill="#FF2E88" fill-opacity="0.08" filter="url(#blur)"/>
 
-  <path d="M0 410L420 250L470 300L48 460Z" fill="#FFFFFF" fill-opacity="0.05"/>
-  <path d="M1130 0L1600 0L1600 138L1172 214L1128 166Z" fill="#00E5FF" fill-opacity="0.06"/>
+  <path d="M0 410L420 250L470 300L48 460Z" fill="#FFFFFF" fill-opacity="0.045"/>
+  <path d="M1130 0L1600 0L1600 138L1172 214L1128 166Z" fill="#FF77D6" fill-opacity="0.07"/>
+  <path d="M1288 36C1376 82 1426 154 1430 250C1433 335 1388 392 1324 440C1388 378 1407 324 1402 262C1397 196 1360 132 1288 36Z" fill="#FFFFFF" fill-opacity="0.14"/>
+  <path d="M1308 68C1370 112 1404 170 1406 244C1408 304 1380 350 1330 388C1367 332 1382 294 1380 244C1378 186 1350 128 1308 68Z" fill="#6B1330"/>
+  <path d="M1248 64L1430 96L1410 126L1230 96Z" fill="#FFFFFF" fill-opacity="0.08"/>
 
-  <path d="M70 360C320 232 486 200 725 206C918 210 1054 182 1202 110C1328 50 1426 42 1536 70" stroke="url(#accent)" stroke-width="18" stroke-linecap="round" filter="url(#shadow)"/>
-  <path d="M84 388C330 260 496 228 734 234C928 238 1062 210 1216 136C1336 80 1434 72 1544 96" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="3.5" stroke-linecap="round"/>
-  <path d="M120 420C360 316 516 292 736 296C918 300 1070 272 1220 202" stroke="#00E5FF" stroke-opacity="0.28" stroke-width="6" stroke-linecap="round"/>
+  <path d="M68 360C316 226 486 194 724 202C914 208 1052 182 1204 112C1330 52 1428 46 1540 76" stroke="url(#accent)" stroke-width="18" stroke-linecap="round" filter="url(#shadow)"/>
+  <path d="M82 390C330 258 496 224 736 232C928 238 1064 210 1218 138C1338 82 1436 76 1548 102" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M118 420C358 320 516 294 736 300C920 304 1072 276 1226 206" stroke="#FF77D6" stroke-opacity="0.34" stroke-width="6" stroke-linecap="round"/>
+  <path d="M240 122C398 148 538 160 650 132" stroke="#C6FF2A" stroke-opacity="0.18" stroke-width="4" stroke-linecap="round"/>
+  <path d="M920 108C1068 74 1168 76 1310 132" stroke="#FF2E88" stroke-opacity="0.22" stroke-width="5" stroke-linecap="round"/>
+  <path d="M150 234C246 174 322 160 416 174" stroke="#FFFFFF" stroke-opacity="0.09" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M1126 216C1208 250 1282 280 1388 302" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2.5" stroke-linecap="round"/>
 
   <path d="M98 386L270 364L262 402L90 426Z" fill="url(#chrome)" fill-opacity="0.92"/>
   <path d="M286 350L430 340L418 390L274 402Z" fill="#EAF0F7" fill-opacity="0.16"/>
   <path d="M1330 154L1458 132L1470 180L1342 202Z" fill="#EAF0F7" fill-opacity="0.14"/>
   <path d="M1240 126L1336 116L1328 160L1230 172Z" fill="url(#chrome)" fill-opacity="0.7"/>
+  <path d="M220 470C280 430 334 418 384 422C338 448 292 478 214 492Z" fill="#FF77D6" fill-opacity="0.15"/>
+  <path d="M1040 460C1120 414 1200 394 1286 400C1206 432 1146 460 1050 490Z" fill="#C6FF2A" fill-opacity="0.12"/>
+  <path d="M88 120C120 100 152 88 190 86C150 106 120 122 96 146Z" fill="#FFFFFF" fill-opacity="0.12"/>
+  <path d="M560 84C616 54 676 44 734 54C680 82 632 104 572 122Z" fill="#FF2E88" fill-opacity="0.1"/>
 
   <rect x="104" y="104" width="420" height="72" rx="18" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.08"/>
   <text x="138" y="151" fill="#F6F8FB" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="900" letter-spacing="4">JOHANNUEL</text>
