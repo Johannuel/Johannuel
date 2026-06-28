@@ -3,10 +3,11 @@
   <desc id="desc">Dark, futuristic profile banner with Y2K sports-inspired accents.</desc>
   <defs>
     <linearGradient id="bg" x1="120" y1="20" x2="1480" y2="500" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#06040A"/>
-      <stop offset="0.36" stop-color="#1A0820"/>
-      <stop offset="0.68" stop-color="#3B0E32"/>
-      <stop offset="1" stop-color="#6B1330"/>
+      <stop offset="0" stop-color="#040309"/>
+      <stop offset="0.22" stop-color="#120716"/>
+      <stop offset="0.5" stop-color="#250A24"/>
+      <stop offset="0.76" stop-color="#470F35"/>
+      <stop offset="1" stop-color="#7A1737"/>
     </linearGradient>
     <linearGradient id="accent" x1="220" y1="150" x2="1380" y2="390" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#F5F7FA" stop-opacity="0.96"/>
@@ -46,18 +47,25 @@
   <rect width="1600" height="520" rx="36" fill="url(#bg)"/>
   <rect width="1600" height="520" rx="36" fill="url(#grid)"/>
   <rect width="1600" height="520" rx="36" fill="url(#dots)"/>
+  <path d="M0 0H1600V520H0Z" fill="#05040A" fill-opacity="0.22"/>
 
-  <ellipse cx="320" cy="110" rx="280" ry="102" fill="#FF2E88" fill-opacity="0.14" filter="url(#blur)"/>
-  <ellipse cx="1280" cy="116" rx="240" ry="88" fill="#C6FF2A" fill-opacity="0.12" filter="url(#blur)"/>
-  <ellipse cx="820" cy="460" rx="360" ry="72" fill="#FFFFFF" fill-opacity="0.05" filter="url(#blur)"/>
-  <ellipse cx="820" cy="260" rx="120" ry="120" fill="#FF77D6" fill-opacity="0.08" filter="url(#blur)"/>
-  <ellipse cx="1240" cy="330" rx="160" ry="76" fill="#FF2E88" fill-opacity="0.08" filter="url(#blur)"/>
+  <ellipse cx="320" cy="110" rx="320" ry="120" fill="#FF2E88" fill-opacity="0.18" filter="url(#blur)"/>
+  <ellipse cx="1280" cy="116" rx="280" ry="102" fill="#C6FF2A" fill-opacity="0.12" filter="url(#blur)"/>
+  <ellipse cx="820" cy="460" rx="420" ry="92" fill="#FFFFFF" fill-opacity="0.06" filter="url(#blur)"/>
+  <ellipse cx="820" cy="260" rx="170" ry="170" fill="#FF77D6" fill-opacity="0.14" filter="url(#blur)"/>
+  <ellipse cx="1240" cy="330" rx="200" ry="96" fill="#FF2E88" fill-opacity="0.1" filter="url(#blur)"/>
+  <ellipse cx="800" cy="288" rx="680" ry="250" fill="#FF77D6" fill-opacity="0.06" filter="url(#blur)"/>
+  <ellipse cx="820" cy="260" rx="760" ry="300" fill="#000000" fill-opacity="0.12" filter="url(#blur)"/>
 
-  <path d="M0 410L420 250L470 300L48 460Z" fill="#FFFFFF" fill-opacity="0.045"/>
-  <path d="M1130 0L1600 0L1600 138L1172 214L1128 166Z" fill="#FF77D6" fill-opacity="0.07"/>
-  <path d="M1288 36C1376 82 1426 154 1430 250C1433 335 1388 392 1324 440C1388 378 1407 324 1402 262C1397 196 1360 132 1288 36Z" fill="#FFFFFF" fill-opacity="0.14"/>
+  <path d="M0 412L420 250L470 300L48 460Z" fill="#FFFFFF" fill-opacity="0.05"/>
+  <path d="M1130 0L1600 0L1600 138L1172 214L1128 166Z" fill="#FF77D6" fill-opacity="0.09"/>
+  <path d="M0 110L160 42L290 98L166 164Z" fill="#C6FF2A" fill-opacity="0.07"/>
+  <path d="M1288 36C1376 82 1426 154 1430 250C1433 335 1388 392 1324 440C1388 378 1407 324 1402 262C1397 196 1360 132 1288 36Z" fill="#FFFFFF" fill-opacity="0.11"/>
   <path d="M1308 68C1370 112 1404 170 1406 244C1408 304 1380 350 1330 388C1367 332 1382 294 1380 244C1378 186 1350 128 1308 68Z" fill="#6B1330"/>
   <path d="M1248 64L1430 96L1410 126L1230 96Z" fill="#FFFFFF" fill-opacity="0.08"/>
+  <path d="M110 420C260 350 398 316 542 312C406 370 286 430 118 494Z" fill="#FF77D6" fill-opacity="0.08"/>
+  <path d="M980 430C1120 360 1270 328 1460 340C1322 392 1218 440 1040 502Z" fill="#C6FF2A" fill-opacity="0.07"/>
+  <path d="M606 88C754 24 920 18 1098 64C972 86 846 120 676 152Z" fill="#FFFFFF" fill-opacity="0.04"/>
 
   <path d="M68 360C316 226 486 194 724 202C914 208 1052 182 1204 112C1330 52 1428 46 1540 76" stroke="url(#accent)" stroke-width="18" stroke-linecap="round" filter="url(#shadow)"/>
   <path d="M82 390C330 258 496 224 736 232C928 238 1064 210 1218 138C1338 82 1436 76 1548 102" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="3.5" stroke-linecap="round"/>
@@ -66,6 +74,8 @@
   <path d="M920 108C1068 74 1168 76 1310 132" stroke="#FF2E88" stroke-opacity="0.22" stroke-width="5" stroke-linecap="round"/>
   <path d="M150 234C246 174 322 160 416 174" stroke="#FFFFFF" stroke-opacity="0.09" stroke-width="2.5" stroke-linecap="round"/>
   <path d="M1126 216C1208 250 1282 280 1388 302" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M0 268C158 236 276 232 422 250" stroke="#FF2E88" stroke-opacity="0.18" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M1160 266C1282 254 1390 260 1600 306" stroke="#C6FF2A" stroke-opacity="0.14" stroke-width="2.5" stroke-linecap="round"/>
 
   <path d="M98 386L270 364L262 402L90 426Z" fill="url(#chrome)" fill-opacity="0.92"/>
   <path d="M286 350L430 340L418 390L274 402Z" fill="#EAF0F7" fill-opacity="0.16"/>
