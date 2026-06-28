@@ -39,10 +39,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=python,linux,git,github,bash,vscode,html,css,js,nodejs,fastapi,postgres,docker&theme=dark"
-      alt="Skill icons"
-    />
+    <img src="https://skillicons.dev/icons?i=arch,godot,obsidian,nixos,zed,vim&theme=dark" alt="Skill icons" />
   </a>
 </p>
 
