@@ -1,0 +1,81 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Johannuel profile banner</title>
+  <desc id="desc">Dark, futuristic profile banner with Y2K sports-inspired accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="20" x2="1480" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#030406"/>
+      <stop offset="0.42" stop-color="#0A0D12"/>
+      <stop offset="1" stop-color="#151C28"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="220" y1="150" x2="1380" y2="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F5F7FA" stop-opacity="0.96"/>
+      <stop offset="0.22" stop-color="#BCC6D6" stop-opacity="0.92"/>
+      <stop offset="0.48" stop-color="#00E5FF" stop-opacity="0.96"/>
+      <stop offset="0.72" stop-color="#9CFF3A" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#F5F7FA" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1A2130" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#0A0D12" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="chrome" x1="260" y1="0" x2="1440" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.2" stop-color="#DCE2EA"/>
+      <stop offset="0.42" stop-color="#8F99AA"/>
+      <stop offset="0.62" stop-color="#FFFFFF"/>
+      <stop offset="0.82" stop-color="#B6C0D1"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <pattern id="grid" width="58" height="58" patternUnits="userSpaceOnUse">
+      <path d="M 58 0 H 0 V 58" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="24" />
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="520" rx="36" fill="url(#bg)"/>
+  <rect width="1600" height="520" rx="36" fill="url(#grid)"/>
+
+  <ellipse cx="340" cy="106" rx="260" ry="96" fill="#00E5FF" fill-opacity="0.1" filter="url(#blur)"/>
+  <ellipse cx="1290" cy="110" rx="220" ry="82" fill="#7CFF6B" fill-opacity="0.1" filter="url(#blur)"/>
+  <ellipse cx="820" cy="460" rx="360" ry="72" fill="#FFFFFF" fill-opacity="0.04" filter="url(#blur)"/>
+
+  <path d="M0 410L420 250L470 300L48 460Z" fill="#FFFFFF" fill-opacity="0.05"/>
+  <path d="M1130 0L1600 0L1600 138L1172 214L1128 166Z" fill="#00E5FF" fill-opacity="0.06"/>
+
+  <path d="M70 360C320 232 486 200 725 206C918 210 1054 182 1202 110C1328 50 1426 42 1536 70" stroke="url(#accent)" stroke-width="18" stroke-linecap="round" filter="url(#shadow)"/>
+  <path d="M84 388C330 260 496 228 734 234C928 238 1062 210 1216 136C1336 80 1434 72 1544 96" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M120 420C360 316 516 292 736 296C918 300 1070 272 1220 202" stroke="#00E5FF" stroke-opacity="0.28" stroke-width="6" stroke-linecap="round"/>
+
+  <path d="M98 386L270 364L262 402L90 426Z" fill="url(#chrome)" fill-opacity="0.92"/>
+  <path d="M286 350L430 340L418 390L274 402Z" fill="#EAF0F7" fill-opacity="0.16"/>
+  <path d="M1330 154L1458 132L1470 180L1342 202Z" fill="#EAF0F7" fill-opacity="0.14"/>
+  <path d="M1240 126L1336 116L1328 160L1230 172Z" fill="url(#chrome)" fill-opacity="0.7"/>
+
+  <rect x="104" y="104" width="420" height="72" rx="18" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <text x="138" y="151" fill="#F6F8FB" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="900" letter-spacing="4">JOHANNUEL</text>
+  <text x="138" y="171" fill="#8E98A8" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="6">HIGH OUTPUT MODE</text>
+
+  <rect x="108" y="192" width="610" height="168" rx="30" fill="#090C12" fill-opacity="0.78" stroke="#FFFFFF" stroke-opacity="0.08" filter="url(#shadow)"/>
+  <text x="140" y="250" fill="#F6F8FB" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="900" letter-spacing="2">BUILD. SHIP. PUSH.</text>
+  <text x="140" y="294" fill="#C7D0DC" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" letter-spacing="1.2">Python / Linux / Git / Systems</text>
+  <text x="140" y="332" fill="#8E98A8" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="500" letter-spacing="1">Dark. Fast. Direct. Built for momentum.</text>
+
+  <rect x="1120" y="78" width="300" height="98" rx="24" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.08" filter="url(#shadow)"/>
+  <text x="1152" y="120" fill="#F6F8FB" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" letter-spacing="2">FOCUS</text>
+  <text x="1152" y="152" fill="#B8C1CF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">Code, fundamentals, consistency</text>
+
+  <rect x="1120" y="192" width="300" height="98" rx="24" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.08" filter="url(#shadow)"/>
+  <text x="1152" y="234" fill="#F6F8FB" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" letter-spacing="2">STACK</text>
+  <text x="1152" y="266" fill="#B8C1CF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">Python, Linux, Git, CLI</text>
+
+  <rect x="1120" y="306" width="300" height="98" rx="24" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.08" filter="url(#shadow)"/>
+  <text x="1152" y="348" fill="#F6F8FB" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" letter-spacing="2">DIRECTION</text>
+  <text x="1152" y="380" fill="#B8C1CF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">Backend, data, systems, IA</text>
+
+  <rect x="0" y="0" width="1600" height="520" rx="36" fill="none" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+</svg>

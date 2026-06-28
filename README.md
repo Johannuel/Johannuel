@@ -1,127 +1,103 @@
-<img width="2425" height="1736" alt="image" src="https://github.com/user-attachments/assets/214c5817-113b-4427-bed7-49f91608e034" />
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm MF coder </h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
 <div align="center">
- <strong><h1>Favorite language</h1></strong>
-  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
-       alt="snake" width="150" /></a>
+  <img src="./profile-banner.svg" alt="Johannuel profile banner" width="100%" />
 </div>
 
+<br />
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
+<div align="center">
+
+# Johannuel
+
+**Python. Linux. Output.**
+
+Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en software util.
+
 </div>
 
+<br />
 
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+## Snapshot
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **johanunuelmota@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+<table>
+  <tr>
+    <td>
+      <strong>Focus</strong><br />
+      Python, consola, automatizacion, sistemas
+    </td>
+    <td>
+      <strong>Mode</strong><br />
+      Aprender haciendo, depurar, repetir
+    </td>
+    <td>
+      <strong>Direction</strong><br />
+      Backend, datos, redes, seguridad
+    </td>
+  </tr>
 </table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
+## Projects
 
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Console tools</strong><br />
+      Calculadoras, cajeros y utilidades para entrenar logica.
+    </td>
+    <td width="50%">
+      <strong>Learning scripts</strong><br />
+      Codigo para depurar, probar ideas y reforzar fundamentos.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Systems practice</strong><br />
+      Linux, Git, archivos, automatizacion y mentalidad de sistema.
+    </td>
+    <td width="50%">
+      <strong>Future builds</strong><br />
+      Backend, datos, redes y seguridad cuando la base este lista.
+    </td>
+  </tr>
+</table>
 
-</p>        
-<!--- stats (end) -->
+## About
 
+- Base tecnica solida antes que frameworks.
+- Python y terminal como herramientas de trabajo.
+- Entender Linux, Git y sistemas por dentro.
+- Codigo claro, util y mantenible.
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
-</p>
+## Skills
 
+<table>
+  <tr>
+    <td><strong>Languages</strong><br />Python</td>
+    <td><strong>System</strong><br />Linux</td>
+    <td><strong>Version control</strong><br />Git / GitHub</td>
+  </tr>
+  <tr>
+    <td><strong>Style</strong><br />Console-first, minimal, direct</td>
+    <td><strong>Strengths</strong><br />Logic, debugging, structure</td>
+    <td><strong>Interests</strong><br />Backend, data, systems</td>
+  </tr>
+</table>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+## What I am building now
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
+- Stronger Python habits.
+- Better code organization.
+- Faster terminal workflow.
+- Sharper systems understanding.
 
+## Principles
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+- Primero los fundamentos.
+- Menos ruido. Mas precision.
+- Probar, corregir, repetir.
+- Documentar tambien construye.
 
+## Contact
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- GitHub: `@Johannuel`
+- If you found something useful here, you can follow the progress on this profile.
 
-----------------------------------------------------------------------
-"your favorite rapper's favorite rapper"
-
-Last Edited on: 17/6/2026
