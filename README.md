@@ -179,5 +179,9 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 </p>
 
 <div align="center">
+  <sub>@Johannuel · mfv_code · @mf-coder</sub>
+</div>
+
+<div align="center">
   <sub>Open source, systems, and deliberate progress.</sub>
 </div>
