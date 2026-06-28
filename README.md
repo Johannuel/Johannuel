@@ -45,19 +45,11 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
   </a>
 </p>
 
-### Workspace
+### Editor / OS
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,nixos,obsidian,zed,vim,godot,markdown&theme=dark" alt="Workspace skill icons" />
-  </a>
-</p>
-
-### Visual
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,tailwind,react,ts,js,html,css&theme=dark" alt="Visual skill icons" />
   </a>
 </p>
 
