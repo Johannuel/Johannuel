@@ -166,6 +166,15 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 
 ## Contact
 
+<p align="center">
+  <a href="https://github.com/Johannuel">
+    <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="36" />
+  </a>
+  <a href="https://discord.com">
+    <img src="https://cdn.simpleicons.org/discord/ffffff" alt="Discord" height="36" />
+  </a>
+</p>
+
 - GitHub: `@Johannuel`
 - Discord: `mfv_code`
 - If you found something useful here, you can follow the progress on this profile.
