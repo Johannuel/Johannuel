@@ -5,6 +5,12 @@
 <br />
 
 <div align="center">
+  <img src="./memory-badge-variables.png" alt="Memory badge variables gadget" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
 
 # Johannuel
 
@@ -34,6 +40,15 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
     </td>
   </tr>
 </table>
+
+## Gadgets
+
+<div align="center">
+  <strong>Memory Badge</strong><br />
+  <sub>Variables</sub>
+</div>
+
+<br />
 
 ## Projects
 
@@ -100,4 +115,3 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 
 - GitHub: `@Johannuel`
 - If you found something useful here, you can follow the progress on this profile.
-
