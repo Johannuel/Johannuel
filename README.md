@@ -164,7 +164,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 - Probar, corregir, repetir.
 - Documentar tambien construye.
 
-## Contact
+## Profiles
 
 <table>
   <tr>
@@ -185,6 +185,21 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <sub>mfv_code</sub>
     </td>
     <td align="center" width="33%">
+      <a href="https://hashnode.com/@mf-coder" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.simpleicons.org/hashnode/ffffff" alt="Hashnode" height="40" />
+      </a>
+      <br />
+      <strong>Hashnode</strong><br />
+      <sub>@mf-coder</sub>
+    </td>
+  </tr>
+</table>
+
+## Writing
+
+<table>
+  <tr>
+    <td align="center" width="100%">
       <a href="https://hashnode.com/@mf-coder" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/hashnode/ffffff" alt="Hashnode" height="40" />
       </a>
