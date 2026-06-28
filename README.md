@@ -168,7 +168,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/Johannuel" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="40" />
       </a>
@@ -176,7 +176,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <strong>GitHub</strong><br />
       <sub>@Johannuel</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://discord.com/users/1515540388008431717" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/discord/ffffff" alt="Discord" height="40" />
       </a>
@@ -184,22 +184,16 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <strong>Discord</strong><br />
       <sub>mfv_code</sub>
     </td>
+    <td align="center" width="33%">
+      <a href="https://hashnode.com/@mf-coder" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.simpleicons.org/hashnode/ffffff" alt="Hashnode" height="40" />
+      </a>
+      <br />
+      <strong>Hashnode</strong><br />
+      <sub>@mf-coder</sub>
+    </td>
   </tr>
 </table>
-
-<div align="center">
-  <a href="https://github.com/Johannuel" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub account" height="22" />
-  </a>
-  <sub> @Johannuel</sub>
-</div>
-
-<div align="center">
-  <a href="https://hashnode.com/@mf-coder" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/hashnode/ffffff" alt="Hashnode" height="22" />
-  </a>
-  <sub> @mf-coder</sub>
-</div>
 
 <div align="center">
   <sub>Open source, systems, and deliberate progress.</sub>
