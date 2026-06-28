@@ -5,12 +5,6 @@
 <br />
 
 <div align="center">
-  <img src="./memory-badge-variables.png" alt="Memory badge variables gadget" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
 
 # Johannuel
 
@@ -41,14 +35,28 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
   </tr>
 </table>
 
-## Gadgets
+## Memory Module
 
-<div align="center">
-  <strong>Memory Badge</strong><br />
-  <sub>Variables</sub>
-</div>
-
-<br />
+<table>
+  <tr>
+    <td width="60%">
+      <img src="./memory-badge-variables.png" alt="Memory badge variables gadget" width="100%" />
+    </td>
+    <td width="40%" valign="top">
+      <strong>Memory Badge</strong><br />
+      <sub>Variables</sub>
+      <br /><br />
+      <p>
+        Una pieza visual para representar el arranque mental de cualquier sistema:
+        nombre, valor, estado y cambio.
+      </p>
+      <p>
+        Encaja como modulo porque habla el mismo idioma del perfil:
+        fundamentos, claridad y progresion.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Projects
 
