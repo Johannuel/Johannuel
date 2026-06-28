@@ -37,15 +37,27 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 
 ## Toolchain
 
+### Base
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,linux,git,github,bash,docker,fastapi,sqlite,postgres&theme=dark" alt="Base skill icons" />
   </a>
 </p>
 
+### Workspace
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,nixos,obsidian,zed,vim,godot,markdown&theme=dark" alt="Workspace skill icons" />
+  </a>
+</p>
+
+### Visual
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,tailwind,react,ts,js,html,css&theme=dark" alt="Visual skill icons" />
   </a>
 </p>
 
