@@ -41,23 +41,46 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
   </tr>
 </table>
 
-## Toolchain
+## Icon Set
 
-### Core
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux,git,bash&theme=dark" alt="Core skill icons" />
-  </a>
-</p>
-
-### Editor / OS
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,nixos,obsidian,vscode,godot&theme=dark" alt="Editor and OS skill icons" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/python/ffffff" alt="Python" height="40" />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/debian/ffffff" alt="Debian" height="40" />
+      <br /><strong>Debian</strong>
+    </td>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/nixos/ffffff" alt="NixOS" height="40" />
+      <br /><strong>NixOS</strong>
+    </td>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/linux/ffffff" alt="Linux" height="40" />
+      <br /><strong>Linux</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="14%">
+      <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VS Code" height="40" />
+      <br /><strong>VS Code</strong>
+    </td>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/obsidian/ffffff" alt="Obsidian" height="40" />
+      <br /><strong>Obsidian</strong>
+    </td>
+    <td align="center" width="14%">
+      <img src="https://zed.dev/_next/static/media/logo_blue_no_gradient_padded.01z8m69~v_7~g.svg" alt="Zed" height="40" />
+      <br /><strong>Zed</strong>
+    </td>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/godotengine/ffffff" alt="Godot" height="40" />
+      <br /><strong>Godot</strong>
+    </td>
+  </tr>
+</table>
 
 ## Memory Module
 
