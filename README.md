@@ -170,7 +170,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Johannuel">
-        <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="38" />
+        <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="40" />
       </a>
       <br />
       <strong>GitHub</strong><br />
@@ -178,7 +178,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
     </td>
     <td align="center" width="50%">
       <a href="https://discord.com">
-        <img src="https://cdn.simpleicons.org/discord/ffffff" alt="Discord" height="38" />
+        <img src="https://cdn.simpleicons.org/discord/ffffff" alt="Discord" height="40" />
       </a>
       <br />
       <strong>Discord</strong><br />
@@ -188,5 +188,12 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 </table>
 
 <div align="center">
-  <sub>If you found something useful here, you can follow the progress on this profile.</sub>
+  <a href="https://github.com/Johannuel">
+    <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub account" height="22" />
+  </a>
+  <sub> @Johannuel</sub>
+</div>
+
+<div align="center">
+  <sub>Open source, systems, and deliberate progress.</sub>
 </div>
