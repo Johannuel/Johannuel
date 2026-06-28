@@ -167,4 +167,5 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 ## Contact
 
 - GitHub: `@Johannuel`
+- Discord: `mfv_code`
 - If you found something useful here, you can follow the progress on this profile.
