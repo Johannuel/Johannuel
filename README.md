@@ -168,29 +168,29 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="background:#0B0F14;border:1px solid #30363D;border-radius:14px;padding:14px;">
       <a href="https://github.com/Johannuel" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="40" />
       </a>
       <br />
-      <strong>GitHub</strong><br />
-      <sub>@Johannuel</sub>
+      <strong style="color:#F0F6FC;">GitHub</strong><br />
+      <sub style="color:#8B949E;">@Johannuel</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="background:linear-gradient(180deg,#0B1220 0%,#0E1A2F 100%);border:1px solid #2F81F7;border-radius:14px;padding:14px;">
       <a href="https://discord.com/users/1515540388008431717" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/discord/ffffff" alt="Discord" height="40" />
       </a>
       <br />
-      <strong>Discord</strong><br />
-      <sub>mfv_code</sub>
+      <strong style="color:#CFE2FF;">Discord</strong><br />
+      <sub style="color:#8FB4FF;">mfv_code</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="background:linear-gradient(180deg,#140914 0%,#220A22 100%);border:1px solid #E11D48;border-radius:14px;padding:14px;">
       <a href="https://hashnode.com/@mf-coder" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/hashnode/ffffff" alt="Hashnode" height="40" />
       </a>
       <br />
-      <strong>Hashnode</strong><br />
-      <sub>@mf-coder</sub>
+      <strong style="color:#FFD4EC;">Hashnode</strong><br />
+      <sub style="color:#FF9FD0;">@mf-coder</sub>
     </td>
   </tr>
 </table>
