@@ -166,15 +166,27 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 
 ## Contact
 
-<p align="center">
-  <a href="https://github.com/Johannuel">
-    <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="36" />
-  </a>
-  <a href="https://discord.com">
-    <img src="https://cdn.simpleicons.org/discord/ffffff" alt="Discord" height="36" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Johannuel">
+        <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="38" />
+      </a>
+      <br />
+      <strong>GitHub</strong><br />
+      <sub>@Johannuel</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://discord.com">
+        <img src="https://cdn.simpleicons.org/discord/ffffff" alt="Discord" height="38" />
+      </a>
+      <br />
+      <strong>Discord</strong><br />
+      <sub>mfv_code</sub>
+    </td>
+  </tr>
+</table>
 
-- GitHub: `@Johannuel`
-- Discord: `mfv_code`
-- If you found something useful here, you can follow the progress on this profile.
+<div align="center">
+  <sub>If you found something useful here, you can follow the progress on this profile.</sub>
+</div>
