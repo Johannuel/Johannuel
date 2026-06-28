@@ -195,5 +195,12 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 </div>
 
 <div align="center">
+  <a href="https://hashnode.com/@mf-coder" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/hashnode/ffffff" alt="Hashnode" height="22" />
+  </a>
+  <sub> @mf-coder</sub>
+</div>
+
+<div align="center">
   <sub>Open source, systems, and deliberate progress.</sub>
 </div>
