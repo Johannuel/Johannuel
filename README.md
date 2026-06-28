@@ -16,6 +16,12 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 
 <br />
 
+<div align="center">
+  <sub>Magenta dark build log for systems, tools, and deliberate progress.</sub>
+</div>
+
+<br />
+
 ## Snapshot
 
 <table>
@@ -37,7 +43,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 
 ## Toolchain
 
-### Base
+### Core
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -62,15 +68,13 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
     </td>
     <td width="40%" valign="top">
       <strong>Memory Badge</strong><br />
-      <sub>Variables</sub>
+      <sub>Variables // State</sub>
       <br /><br />
       <p>
-        Una pieza visual para representar el arranque mental de cualquier sistema:
-        nombre, valor, estado y cambio.
+        Una pieza visual para representar el arranque mental de cualquier sistema.
       </p>
       <p>
-        Encaja como modulo porque habla el mismo idioma del perfil:
-        fundamentos, claridad y progresion.
+        Encaja con el mismo lenguaje del perfil: claridad, progreso y control.
       </p>
     </td>
   </tr>
