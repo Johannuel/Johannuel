@@ -90,12 +90,12 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <br /><strong>Neovim</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/docker/ffffff" alt="Docker" height="40" />
-      <br /><strong>Docker</strong>
+      <img src="https://zed.dev/_next/static/media/logo_blue_no_gradient_padded.01z8m69~v_7~g.svg" alt="Zed" height="40" />
+      <br /><strong>Zed</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/ollama/ffffff" alt="Ollama" height="40" />
-      <br /><strong>Ollama</strong>
+      <img src="https://cdn.simpleicons.org/docker/ffffff" alt="Docker" height="40" />
+      <br /><strong>Docker</strong>
     </td>
   </tr>
   <tr>
@@ -104,16 +104,16 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <br /><strong>Obsidian</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://zed.dev/_next/static/media/logo_blue_no_gradient_padded.01z8m69~v_7~g.svg" alt="Zed" height="40" />
-      <br /><strong>Zed</strong>
-    </td>
-    <td align="center" width="25%">
       <img src="https://cdn.simpleicons.org/godotengine/ffffff" alt="Godot" height="40" />
       <br /><strong>Godot</strong>
     </td>
     <td align="center" width="25%">
       <img src="https://cdn.simpleicons.org/notion/ffffff" alt="Notion" height="40" />
       <br /><strong>Notion</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/ollama/ffffff" alt="Ollama" height="40" />
+      <br /><strong>Ollama</strong>
     </td>
   </tr>
 </table>
