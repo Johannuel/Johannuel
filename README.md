@@ -80,6 +80,24 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <br /><strong>Godot</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/git/ffffff" alt="Git" height="40" />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/notion/ffffff" alt="Notion" height="40" />
+      <br /><strong>Notion</strong>
+    </td>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/neovim/ffffff" alt="Neovim" height="40" />
+      <br /><strong>Neovim</strong>
+    </td>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/docker/ffffff" alt="Docker" height="40" />
+      <br /><strong>Docker</strong>
+    </td>
+  </tr>
 </table>
 
 ## Memory Module
