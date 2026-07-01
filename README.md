@@ -104,12 +104,16 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <br /><strong>HTML</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/css3/ffffff" alt="CSS" height="40" />
-      <br /><strong>CSS</strong>
+      <img src="https://cdn.simpleicons.org/react/ffffff" alt="React" height="40" />
+      <br /><strong>React</strong>
     </td>
     <td align="center" width="25%">
       <img src="https://cdn.simpleicons.org/javascript/ffffff" alt="JS" height="40" />
       <br /><strong>JS</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/ollama/ffffff" alt="Ollama" height="40" />
+      <br /><strong>Ollama</strong>
     </td>
   </tr>
 </table>
