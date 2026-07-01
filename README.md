@@ -68,49 +68,37 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 ### Sistema y Herramientas
 <table>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="16%">
       <img src="https://img.shields.io/badge/-ArchLinux-1793D1?style=flat&logo=archlinux&logoColor=white" alt="Arch Linux" height="40" />
       <br /><strong>Arch</strong>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16%">
       <img src="https://img.shields.io/badge/-NixOS-5277C3?style=flat&logo=nixos&logoColor=white" alt="NixOS" height="40" />
       <br /><strong>NixOS</strong>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16%">
       <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" height="40" />
       <br /><strong>Linux</strong>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16%">
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="40" />
       <br /><strong>Git</strong>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16%">
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="40" />
       <br /><strong>Docker</strong>
     </td>
-  </tr>
-</table>
-
-### AI, Editor y Productividad
-<table>
-  <tr>
-    <td align="center" width="20%">
+    <td align="center" width="16%">
       <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim" height="40" />
       <br /><strong>Neovim</strong>
     </td>
-    <td align="center" width="20%">
+  </tr>
+  <tr>
+    <td align="center" width="16%">
       <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" height="40" />
       <br /><strong>VS Code</strong>
     </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama" height="40" />
-      <br /><strong>Ollama</strong>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/-Claude-F5A475?style=flat&logo=anthropic&logoColor=white" alt="Claude" height="40" />
-      <br /><strong>Claude</strong>
-    </td>
-    <td align="center" width="20%">
+    <td align="center" width="16%">
       <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" height="40" />
       <br /><strong>Notion</strong>
     </td>
