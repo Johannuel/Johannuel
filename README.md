@@ -50,6 +50,20 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <br /><strong>Python</strong>
     </td>
     <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/html5/ffffff" alt="HTML" height="40" />
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/javascript/ffffff" alt="JS" height="40" />
+      <br /><strong>JS</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/react/ffffff" alt="React" height="40" />
+      <br /><strong>React</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
       <img src="https://cdn.simpleicons.org/archlinux/ffffff" alt="Arch" height="40" />
       <br /><strong>Arch</strong>
     </td>
@@ -61,12 +75,30 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <img src="https://cdn.simpleicons.org/linux/ffffff" alt="Linux" height="40" />
       <br /><strong>Linux</strong>
     </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/git/ffffff" alt="Git" height="40" />
+      <br /><strong>Git</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" width="25%">
       <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VS Code" height="40" />
       <br /><strong>VS Code</strong>
     </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/neovim/ffffff" alt="Neovim" height="40" />
+      <br /><strong>Neovim</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/docker/ffffff" alt="Docker" height="40" />
+      <br /><strong>Docker</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/ollama/ffffff" alt="Ollama" height="40" />
+      <br /><strong>Ollama</strong>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
       <img src="https://cdn.simpleicons.org/obsidian/ffffff" alt="Obsidian" height="40" />
       <br /><strong>Obsidian</strong>
@@ -79,41 +111,9 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <img src="https://cdn.simpleicons.org/godotengine/ffffff" alt="Godot" height="40" />
       <br /><strong>Godot</strong>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/git/ffffff" alt="Git" height="40" />
-      <br /><strong>Git</strong>
-    </td>
     <td align="center" width="25%">
       <img src="https://cdn.simpleicons.org/notion/ffffff" alt="Notion" height="40" />
       <br /><strong>Notion</strong>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/neovim/ffffff" alt="Neovim" height="40" />
-      <br /><strong>Neovim</strong>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/docker/ffffff" alt="Docker" height="40" />
-      <br /><strong>Docker</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/html5/ffffff" alt="HTML" height="40" />
-      <br /><strong>HTML</strong>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/react/ffffff" alt="React" height="40" />
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/javascript/ffffff" alt="JS" height="40" />
-      <br /><strong>JS</strong>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/ollama/ffffff" alt="Ollama" height="40" />
-      <br /><strong>Ollama</strong>
     </td>
   </tr>
 </table>
