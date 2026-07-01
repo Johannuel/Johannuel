@@ -100,33 +100,33 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
   </tr>
   <tr>
     <td align="center" width="14%">
-      <img src="https://cdn.simpleicons.org/html5/ffffff" alt="HTML" height="40" />
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" height="40" />
       <br /><strong>HTML</strong>
     </td>
     <td align="center" width="14%">
-      <img src="https://cdn.simpleicons.org/css3/000000" alt="CSS" height="40" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" height="40" />
       <br /><strong>CSS</strong>
     </td>
     <td align="center" width="14%">
-      <img src="https://cdn.simpleicons.org/javascript/ffffff" alt="JS" height="40" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" height="40" />
       <br /><strong>JS</strong>
     </td>
     <td align="center" width="14%">
-      <img src="https://cdn.simpleicons.org/ollama/ffffff" alt="Ollama" height="40" />
+      <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama" height="40" />
       <br /><strong>Ollama</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="14%">
-      <img src="https://cdn.simpleicons.org/openai/ffffff" alt="Codex" height="40" />
+      <img src="https://img.shields.io/badge/-Codex-000000?style=flat&logo=openai&logoColor=white" alt="Codex" height="40" />
       <br /><strong>Codex</strong>
     </td>
     <td align="center" width="14%">
-      <img src="https://cdn.simpleicons.org/visualstudiocode/ffffff" alt="Open Code" height="40" />
+      <img src="https://img.shields.io/badge/-OpenCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="Open Code" height="40" />
       <br /><strong>Open Code</strong>
     </td>
     <td align="center" width="14%">
-      <img src="https://cdn.simpleicons.org/anthropic/ffffff" alt="Claude" height="40" />
+      <img src="https://img.shields.io/badge/-Claude-F5A475?style=flat&logo=anthropic&logoColor=white" alt="Claude" height="40" />
       <br /><strong>Claude</strong>
     </td>
   </tr>
