@@ -50,8 +50,8 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <br /><strong>Python</strong>
     </td>
     <td align="center" width="14%">
-      <img src="https://cdn.simpleicons.org/debian/ffffff" alt="Debian" height="40" />
-      <br /><strong>Debian</strong>
+      <img src="https://cdn.simpleicons.org/archlinux/ffffff" alt="Arch Linux" height="40" />
+      <br /><strong>Arch Linux</strong>
     </td>
     <td align="center" width="14%">
       <img src="https://cdn.simpleicons.org/nixos/ffffff" alt="NixOS" height="40" />
