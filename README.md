@@ -51,7 +51,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
     </td>
     <td align="center" width="14%">
       <img src="https://cdn.simpleicons.org/archlinux/ffffff" alt="Arch Linux" height="40" />
-      <br /><strong>Arch Linux</strong>
+      <br /><strong>Arch</strong>
     </td>
     <td align="center" width="14%">
       <img src="https://cdn.simpleicons.org/nixos/ffffff" alt="NixOS" height="40" />
