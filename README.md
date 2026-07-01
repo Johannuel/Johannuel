@@ -104,7 +104,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <br /><strong>HTML</strong>
     </td>
     <td align="center" width="14%">
-      <img src="https://cdn.simpleicons.org/css3/ffffff" alt="CSS" height="40" />
+      <img src="https://cdn.simpleicons.org/css3/000000" alt="CSS" height="40" />
       <br /><strong>CSS</strong>
     </td>
     <td align="center" width="14%">
@@ -122,7 +122,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <br /><strong>Codex</strong>
     </td>
     <td align="center" width="14%">
-      <img src="https://cdn.simpleicons.org/codeigniter/ffffff" alt="Open Code" height="40" />
+      <img src="https://cdn.simpleicons.org/visualstudiocode/ffffff" alt="Open Code" height="40" />
       <br /><strong>Open Code</strong>
     </td>
     <td align="center" width="14%">
