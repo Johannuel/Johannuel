@@ -98,6 +98,38 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <br /><strong>Docker</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/html5/ffffff" alt="HTML" height="40" />
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/css3/ffffff" alt="CSS" height="40" />
+      <br /><strong>CSS</strong>
+    </td>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/javascript/ffffff" alt="JS" height="40" />
+      <br /><strong>JS</strong>
+    </td>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/ollama/ffffff" alt="Ollama" height="40" />
+      <br /><strong>Ollama</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/openai/ffffff" alt="Codex" height="40" />
+      <br /><strong>Codex</strong>
+    </td>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/github/ffffff" alt="Open Code" height="40" />
+      <br /><strong>Open Code</strong>
+    </td>
+    <td align="center" width="14%">
+      <img src="https://cdn.simpleicons.org/anthropic/ffffff" alt="Claude" height="40" />
+      <br /><strong>Claude</strong>
+    </td>
+  </tr>
 </table>
 
 ## Memory Module
