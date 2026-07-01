@@ -94,18 +94,18 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <br /><strong>Zed</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/docker/ffffff" alt="Docker" height="40" />
-      <br /><strong>Docker</strong>
+      <img src="https://cdn.simpleicons.org/godotengine/ffffff" alt="Godot" height="40" />
+      <br /><strong>Godot</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/obsidian/ffffff" alt="Obsidian" height="40" />
-      <br /><strong>Obsidian</strong>
+      <img src="https://cdn.simpleicons.org/docker/ffffff" alt="Docker" height="40" />
+      <br /><strong>Docker</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/godotengine/ffffff" alt="Godot" height="40" />
-      <br /><strong>Godot</strong>
+      <img src="https://cdn.simpleicons.org/obsidian/ffffff" alt="Obsidian" height="40" />
+      <br /><strong>Obsidian</strong>
     </td>
     <td align="center" width="25%">
       <img src="https://cdn.simpleicons.org/notion/ffffff" alt="Notion" height="40" />
