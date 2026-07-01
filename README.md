@@ -43,13 +43,62 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 
 ## Icon Set
 
-### Lenguajes
 <table>
   <tr>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="40" />
       <br /><strong>Python</strong>
     </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-ArchLinux-1793D1?style=flat&logo=archlinux&logoColor=white" alt="Arch" height="40" />
+      <br /><strong>Arch</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-NixOS-5277C3?style=flat&logo=nixos&logoColor=white" alt="NixOS" height="40" />
+      <br /><strong>NixOS</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" height="40" />
+      <br /><strong>Linux</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" height="40" />
+      <br /><strong>VS Code</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white" alt="Obsidian" height="40" />
+      <br /><strong>Obsidian</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-Zed-000000?style=flat&logo=zed&logoColor=white" alt="Zed" height="40" />
+      <br /><strong>Zed</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godotengine&logoColor=white" alt="Godot" height="40" />
+      <br /><strong>Godot</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="40" />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" height="40" />
+      <br /><strong>Notion</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim" height="40" />
+      <br /><strong>Neovim</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="40" />
+      <br /><strong>Docker</strong>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" height="40" />
       <br /><strong>HTML</strong>
@@ -61,46 +110,6 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" height="40" />
       <br /><strong>JS</strong>
-    </td>
-  </tr>
-</table>
-
-### Sistema y Herramientas
-<table>
-  <tr>
-    <td align="center" width="16%">
-      <img src="https://img.shields.io/badge/-ArchLinux-1793D1?style=flat&logo=archlinux&logoColor=white" alt="Arch Linux" height="40" />
-      <br /><strong>Arch</strong>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://img.shields.io/badge/-NixOS-5277C3?style=flat&logo=nixos&logoColor=white" alt="NixOS" height="40" />
-      <br /><strong>NixOS</strong>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" height="40" />
-      <br /><strong>Linux</strong>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="40" />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="40" />
-      <br /><strong>Docker</strong>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim" height="40" />
-      <br /><strong>Neovim</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16%">
-      <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" height="40" />
-      <br /><strong>VS Code</strong>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" height="40" />
-      <br /><strong>Notion</strong>
     </td>
   </tr>
 </table>
