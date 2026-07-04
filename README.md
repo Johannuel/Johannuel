@@ -242,3 +242,10 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 <div align="center">
   <sub>Open source, systems, and deliberate progress.</sub>
 </div>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://vercel.app" alt="Johannuel's GitHub stats" height="160px" />
+  <img src="https://vercel.app" alt="Top Languages" height="160px" />
+</div>
+
