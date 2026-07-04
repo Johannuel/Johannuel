@@ -8,9 +8,9 @@
 
 # Johannuel
 
-**Python. Linux. Output.**
+**Python Developer | Linux Systems & Automation**
 
-Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en software util.
+Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en software útil.
 
 </div>
 
@@ -28,7 +28,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
   <tr>
     <td>
       <strong>Focus</strong><br />
-      Python, consola, automatizacion, sistemas
+      Python, consola, automatización, sistemas
     </td>
     <td>
       <strong>Mode</strong><br />
@@ -82,7 +82,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VS Code" height="40" />
+      <img src="https://simpleicons.org" alt="VS Code" height="40" />
       <br /><strong>VS Code</strong>
     </td>
     <td align="center" width="25%">
@@ -90,7 +90,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
       <br /><strong>Neovim</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://zed.dev/_next/static/media/logo_blue_no_gradient_padded.01z8m69~v_7~g.svg" alt="Zed" height="40" />
+      <img src="https://simpleicons.org" alt="Zed" height="40" />
       <br /><strong>Zed</strong>
     </td>
     <td align="center" width="25%">
@@ -139,52 +139,46 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
   </tr>
 </table>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://vercel.app" alt="Johannuel's GitHub stats" height="160px" />
+  <img src="https://vercel.app" alt="Top Languages" height="160px" />
+</div>
+
 ## Projects
+
+*(Reemplaza los enlaces simulados de abajo por las URL reales de tus repositorios)*
 
 <table>
   <tr>
     <td width="50%">
-      <strong>Console tools</strong><br />
-      Calculadoras, cajeros y utilidades para entrenar logica.
+      <strong><a href="https://github.com">Console tools</a></strong><br />
+      Calculadoras, cajeros y utilidades para entrenar lógica.
     </td>
     <td width="50%">
-      <strong>Learning scripts</strong><br />
-      Codigo para depurar, probar ideas y reforzar fundamentos.
+      <strong><a href="https://github.com">Learning scripts</a></strong><br />
+      Código para depurar, probar ideas y reforzar fundamentos.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <strong>Systems practice</strong><br />
-      Linux, Git, archivos, automatizacion y mentalidad de sistema.
+      <strong><a href="https://github.com">Systems practice</a></strong><br />
+      Linux, Git, archivos, automatización y mentalidad de sistema.
     </td>
     <td width="50%">
-      <strong>Future builds</strong><br />
-      Backend, datos, redes y seguridad cuando la base este lista.
+      <strong><a href="https://github.com">Future builds</a></strong><br />
+      Backend, datos, redes y seguridad cuando la base esté lista.
     </td>
   </tr>
 </table>
 
 ## About
 
-- Base tecnica solida antes que frameworks.
+- Base técnica sólida antes que frameworks.
 - Python y terminal como herramientas de trabajo.
 - Entender Linux, Git y sistemas por dentro.
-- Codigo claro, util y mantenible.
-
-## Skills
-
-<table>
-  <tr>
-    <td><strong>Languages</strong><br />Python</td>
-    <td><strong>System</strong><br />Linux</td>
-    <td><strong>Version control</strong><br />Git / GitHub</td>
-  </tr>
-  <tr>
-    <td><strong>Style</strong><br />Console-first, minimal, direct</td>
-    <td><strong>Strengths</strong><br />Logic, debugging, structure</td>
-    <td><strong>Interests</strong><br />Backend, data, systems</td>
-  </tr>
-</table>
+- Código claro, útil y mantenible.
 
 ## What I am building now
 
@@ -196,9 +190,9 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 ## Principles
 
 - Primero los fundamentos.
-- Menos ruido. Mas precision.
+- Menos ruido. Más precisión.
 - Probar, corregir, repetir.
-- Documentar tambien construye.
+- Documentar también construye.
 
 ## Find me
 
@@ -239,7 +233,14 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
   </tr>
 </table>
 
+<br />
+
+<div align="center">
+  <img src="https://laobi.icu" alt="Visitor Count" />
+</div>
+
+<br />
+
 <div align="center">
   <sub>Open source, systems, and deliberate progress.</sub>
 </div>
-
