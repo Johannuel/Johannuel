@@ -123,7 +123,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
 <table>
   <tr>
     <td width="60%">
-      <img src="./memory-badge-variables.png" alt="Memory badge variables gadget" width="100%" />
+      <img src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only" width="100%" />
     </td>
     <td width="40%" valign="top">
       <strong>Memory Badge</strong><br />
