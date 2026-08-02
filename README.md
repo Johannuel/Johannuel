@@ -135,19 +135,8 @@ Construyo, depuro y repito hasta que el sistema funciona.
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="./assets/card-claculator.svg" alt="claculator-virtual" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="./assets/card-python.svg" alt="Python-practice" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/card-calendario.svg" alt="Calendario-RD-6-meses" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="./assets/card-rpg.svg" alt="RPG TUI" width="100%" />
+    <td width="100%" align="center">
+      <img src="./assets/card-python.svg" alt="Python-practice" width="50%" />
     </td>
   </tr>
 </table>
