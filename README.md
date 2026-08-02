@@ -125,17 +125,7 @@ Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en softw
     <td width="60%">
       <img src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only" width="100%" />
     </td>
-    <td width="40%" valign="top">
-      <strong>Memory Badge</strong><br />
-      <sub>Variables // State</sub>
-      <br /><br />
-      <p>
-        Una pieza visual para representar el arranque mental de cualquier sistema.
-      </p>
-      <p>
-        Encaja con el mismo lenguaje del perfil: claridad, progreso y control.
-      </p>
-    </td>
+    <td width="40%" valign="top"></td>
   </tr>
 </table>
 
