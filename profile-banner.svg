@@ -341,18 +341,13 @@
       <g class="face-a">
         <rect x="-70" y="-105" width="140" height="210" rx="6" fill="#EAF3FF"/>
         <rect x="-64" y="-99" width="128" height="198" rx="3" fill="none" stroke="#C9A24B" stroke-width="2"/>
-        <text x="0" y="-78" font-family="Montserrat" font-weight="600" font-size="13" letter-spacing="3" fill="#1269CC" text-anchor="middle">DEATH</text>
-        <!-- guadaña -->
-        <line x1="-42" y1="36" x2="30" y2="-64" stroke="#0B2A5B" stroke-width="3.5"/>
-        <path d="M30,-64 C42,-84 66,-70 62,-48 C58,-44 34,-48 30,-56 Z" fill="#0B2A5B"/>
-        <!-- calavera -->
-        <path d="M0,-74 C-21,-74 -30,-56 -30,-39 C-30,-20 -20,-10 -13,-5 L-13,8 C-13,16 13,16 13,8 L13,-5 C20,-10 30,-20 30,-39 C30,-56 21,-74 0,-74 Z" fill="none" stroke="#0B2A5B" stroke-width="2.5"/>
-        <circle cx="-10" cy="-44" r="6.5" fill="#0B2A5B"/>
-        <circle cx="10" cy="-44" r="6.5" fill="#0B2A5B"/>
-        <path d="M-3.5,-28 L3.5,-28 L0,-19 Z" fill="#0B2A5B"/>
-        <line x1="-9" y1="0" x2="9" y2="0" stroke="#0B2A5B" stroke-width="2"/>
-        <path d="M-6,0 L-6,4 M-2,0 L-2,4 M2,0 L2,4 M6,0 L6,4" stroke="#0B2A5B" stroke-width="2"/>
-        <text x="0" y="56" font-family="Montserrat" font-weight="800" font-size="38" fill="#0B2A5B" text-anchor="middle">XIII</text>
+        <text x="0" y="-78" font-family="Montserrat" font-weight="600" font-size="13" letter-spacing="3" fill="#1269CC" text-anchor="middle">CODE</text>
+        <!-- terminal -->
+        <rect x="-48" y="-50" width="96" height="62" rx="5" fill="none" stroke="#0B2A5B" stroke-width="2.5"/>
+        <text x="-38" y="-32" font-family="Montserrat" font-weight="600" font-size="13" fill="#1269CC" text-anchor="start">mf@code:~$</text>
+        <text x="-38" y="-12" font-family="Montserrat" font-weight="600" font-size="13" fill="#0B2A5B" text-anchor="start">cargo run</text>
+        <rect class="pulse" x="36" y="-22" width="8" height="16" fill="#C9A24B"/>
+        <text x="0" y="56" font-family="Montserrat" font-weight="800" font-size="38" fill="#0B2A5B" text-anchor="middle">404</text>
         <text x="0" y="80" font-family="Montserrat" font-weight="600" font-size="12" letter-spacing="4" fill="#0B2A5B" text-anchor="middle">RELOAD</text>
       </g>
       <g class="face-b">
