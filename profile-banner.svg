@@ -152,7 +152,7 @@
       </feMerge>
     </filter>
     <clipPath id="titleClip">
-      <text x="815" y="288" font-family="Montserrat" font-weight="800" font-size="140" letter-spacing="4" transform="skewX(-6)" text-anchor="middle">MF CODER</text>
+      <text x="830" y="288" font-family="Montserrat" font-weight="800" font-size="140" letter-spacing="4" transform="skewX(-6)" text-anchor="middle">MF CODER</text>
     </clipPath>
     <clipPath id="waveClip">
       <rect x="330" y="300" width="700" height="60"/>
@@ -239,7 +239,7 @@
   </g>
 
   <!-- ===== protagonista sumergido ===== -->
-  <g transform="translate(1190, 255)" class="sink">
+  <g transform="translate(1205, 255)" class="sink">
     <!-- halo -->
     <g fill="#51EEFC" fill-opacity="0.25" filter="url(#glowSoft)">
       <path d="M-4,112 C-20,60 -10,10 -2,-20 C8,10 2,60 8,110 Z"/>
@@ -281,10 +281,10 @@
 
   <!-- ===== titulo MF CODER ===== -->
   <g class="title-in">
-    <text x="815" y="288" font-family="Montserrat" font-weight="800" font-size="140" letter-spacing="4" transform="skewX(-6)" text-anchor="middle" fill="#51EEFC" fill-opacity="0.5" filter="url(#glow)">MF CODER</text>
-    <text x="815" y="288" font-family="Montserrat" font-weight="800" font-size="140" letter-spacing="4" transform="skewX(-6)" text-anchor="middle" fill="#FFFFFF" filter="url(#titleShadow)">MF CODER</text>
-    <line x1="578" y1="300" x2="668" y2="300" stroke="#51EEFC" stroke-opacity="0.55" stroke-width="2"/>
-    <line x1="1053" y1="300" x2="1143" y2="300" stroke="#51EEFC" stroke-opacity="0.55" stroke-width="2"/>
+    <text x="830" y="288" font-family="Montserrat" font-weight="800" font-size="140" letter-spacing="4" transform="skewX(-6)" text-anchor="middle" fill="#51EEFC" fill-opacity="0.5" filter="url(#glow)">MF CODER</text>
+    <text x="830" y="288" font-family="Montserrat" font-weight="800" font-size="140" letter-spacing="4" transform="skewX(-6)" text-anchor="middle" fill="#FFFFFF" filter="url(#titleShadow)">MF CODER</text>
+    <line x1="593" y1="300" x2="683" y2="300" stroke="#51EEFC" stroke-opacity="0.55" stroke-width="2"/>
+    <line x1="1067" y1="300" x2="1157" y2="300" stroke="#51EEFC" stroke-opacity="0.55" stroke-width="2"/>
   </g>
 
   <!-- bandas de agua sobre el titulo -->
