@@ -182,10 +182,10 @@
   </g>
 
   <!-- ===== barra HUD superior ===== -->
-  <g font-family="Montserrat" font-weight="600" font-size="13" letter-spacing="5" fill="#6D9AC7" fill-opacity="0.9">
+  <g font-family="Montserrat" font-weight="600" font-size="14" letter-spacing="5" fill="#F2F7FF" fill-opacity="0.95">
     <text x="90" y="54">NO. 001</text>
     <text x="1410" y="54" text-anchor="end">DARK HOUR · 04.04.2009</text>
-    <line x1="90" y1="64" x2="1410" y2="64" stroke="#51EEFC" stroke-opacity="0.25" stroke-width="1"/>
+    <line x1="90" y1="64" x2="1410" y2="64" stroke="#51EEFC" stroke-opacity="0.4" stroke-width="1"/>
   </g>
 
   <!-- ===== luna ===== -->
@@ -203,7 +203,7 @@
   <!-- ===== Memento Mori ===== -->
   <g>
     <text x="85" y="104" font-family="UnifrakturMaguntia" font-size="52" fill="#F2F7FF" fill-opacity="0.95">Memento Mori</text>
-    <text x="90" y="144" font-family="Montserrat" font-weight="600" font-size="16" letter-spacing="10" fill="#51EEFC">RELOAD</text>
+    <text x="90" y="144" font-family="Montserrat" font-weight="600" font-size="16" letter-spacing="10" fill="#51EEFC" fill-opacity="0.95">RELOAD</text>
     <line x1="90" y1="158" x2="245" y2="158" stroke="#51EEFC" stroke-opacity="0.4" stroke-width="1"/>
     <circle cx="245" cy="158" r="3" fill="#C9A24B" fill-opacity="0.9"/>
   </g>
@@ -266,20 +266,20 @@
   <!-- ===== cintas de texto (menu de pausa) ===== -->
   <g font-family="Montserrat">
     <g class="ribbon-in" style="animation-delay: 0.45s">
-      <polygon points="640,356 860,356 860,384 652,384 640,372" fill="#1269CC" fill-opacity="0.95"/>
-      <line x1="640" y1="384" x2="860" y2="384" stroke="#51EEFC" stroke-opacity="0.8" stroke-width="2"/>
+      <polygon points="640,356 860,356 860,384 652,384 640,372" fill="#071428" stroke="#51EEFC" stroke-opacity="0.9" stroke-width="2"/>
+      <line x1="640" y1="358" x2="858" y2="358" stroke="#51EEFC" stroke-opacity="0.35" stroke-width="1"/>
       <text x="658" y="377" font-weight="600" font-size="15" letter-spacing="5" fill="#FFFFFF">RUST · LANG</text>
       <polygon class="twinkle" points="616,356 632,356 624,374" fill="#51EEFC" style="animation-delay: 0.2s"/>
     </g>
     <g class="ribbon-in" style="animation-delay: 0.7s">
-      <polygon points="640,396 860,396 860,424 652,424 640,412" fill="#0B2A5B" fill-opacity="0.97"/>
-      <line x1="640" y1="424" x2="860" y2="424" stroke="#51EEFC" stroke-opacity="0.8" stroke-width="2"/>
+      <polygon points="640,396 860,396 860,424 652,424 640,412" fill="#0E2B52" stroke="#51EEFC" stroke-opacity="0.9" stroke-width="2"/>
+      <line x1="640" y1="398" x2="858" y2="398" stroke="#51EEFC" stroke-opacity="0.35" stroke-width="1"/>
       <text x="658" y="417" font-weight="600" font-size="15" letter-spacing="5" fill="#FFFFFF">LINUX · SYS</text>
       <polygon class="twinkle" points="616,396 632,396 624,414" fill="#51EEFC" style="animation-delay: 1.4s"/>
     </g>
     <g class="ribbon-in" style="animation-delay: 0.95s">
-      <polygon points="640,436 860,436 860,464 652,464 640,452" fill="#1269CC" fill-opacity="0.95"/>
-      <line x1="640" y1="464" x2="860" y2="464" stroke="#51EEFC" stroke-opacity="0.8" stroke-width="2"/>
+      <polygon points="640,436 860,436 860,464 652,464 640,452" fill="#071428" stroke="#51EEFC" stroke-opacity="0.9" stroke-width="2"/>
+      <line x1="640" y1="438" x2="858" y2="438" stroke="#51EEFC" stroke-opacity="0.35" stroke-width="1"/>
       <text x="658" y="457" font-weight="600" font-size="15" letter-spacing="5" fill="#FFFFFF">DEVOPS · GOAL</text>
       <polygon class="twinkle" points="616,436 632,436 624,454" fill="#51EEFC" style="animation-delay: 2.6s"/>
     </g>
