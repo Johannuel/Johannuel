@@ -94,8 +94,8 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
       <br /><strong>Obsidian</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/ollama/1269CC" alt="Ollama" height="40" />
-      <br /><strong>Ollama</strong>
+      <img src="https://cdn.simpleicons.org/opencode/1269CC" alt="Opencode" height="40" />
+      <br /><strong>Opencode</strong>
     </td>
   </tr>
 </table>
