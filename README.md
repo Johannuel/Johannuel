@@ -20,22 +20,6 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
 
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-<h2 align="center">Snapshot</h2>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><strong style="color:#51EEFC;">Focus</strong><br />Rust, Linux, automatizacion, sistemas</td>
-    <td><strong style="color:#51EEFC;">Mode</strong><br />Construir, depurar, repetir</td>
-    <td><strong style="color:#51EEFC;">Direction</strong><br />DevOps: contenedores, CI/CD, infraestructura</td>
-  </tr>
-</table>
-
-</div>
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
 <h2 align="center">Stack</h2>
 
 <div align="center">
