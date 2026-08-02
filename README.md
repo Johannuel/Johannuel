@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile-banner.svg" alt="MF coder profile banner" width="100%" />
+  <img src="./profile-banner.svg" alt="MF CODER — Persona 3 Reload style banner" width="100%" />
 </div>
 
 <br />
@@ -17,88 +17,94 @@ Construyo, depuro y repito hasta que el sistema funciona.
 <br />
 
 <div align="center">
-  <sub>Magenta dark build log for systems, tools, and deliberate progress.</sub>
+  <sub>Memento mori — todos los sistemas mueren. Los buenos, tarde.</sub>
 </div>
 
 <br />
+
+<img src="./assets/divider.svg" alt="divider" width="100%" />
 
 ## Snapshot
 
 <table>
   <tr>
     <td>
-      <strong>Focus</strong><br />
+      <strong style="color:#51EEFC;">Focus</strong><br />
       Rust, Linux, automatizacion, sistemas
     </td>
     <td>
-      <strong>Mode</strong><br />
+      <strong style="color:#51EEFC;">Mode</strong><br />
       Construir, depurar, repetir
     </td>
     <td>
-      <strong>Direction</strong><br />
+      <strong style="color:#51EEFC;">Direction</strong><br />
       DevOps: contenedores, CI/CD, infraestructura
     </td>
   </tr>
 </table>
+
+<img src="./assets/divider.svg" alt="divider" width="100%" />
 
 ## Stack
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/rust/E8112D" alt="Rust" height="40" />
+      <img src="https://cdn.simpleicons.org/rust/1269CC" alt="Rust" height="40" />
       <br /><strong>Rust</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/python/E8112D" alt="Python" height="40" />
+      <img src="https://cdn.simpleicons.org/python/1269CC" alt="Python" height="40" />
       <br /><strong>Python</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/archlinux/E8112D" alt="Arch" height="40" />
+      <img src="https://cdn.simpleicons.org/archlinux/1269CC" alt="Arch" height="40" />
       <br /><strong>Arch</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/linux/E8112D" alt="Linux" height="40" />
+      <img src="https://cdn.simpleicons.org/linux/1269CC" alt="Linux" height="40" />
       <br /><strong>Linux</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/hyprland/E8112D" alt="Hyprland" height="40" />
+      <img src="https://cdn.simpleicons.org/hyprland/51EEFC" alt="Hyprland" height="40" />
       <br /><strong>Hyprland</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/git/E8112D" alt="Git" height="40" />
+      <img src="https://cdn.simpleicons.org/git/51EEFC" alt="Git" height="40" />
       <br /><strong>Git</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/docker/E8112D" alt="Docker" height="40" />
+      <img src="https://cdn.simpleicons.org/docker/51EEFC" alt="Docker" height="40" />
       <br /><strong>Docker</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/neovim/E8112D" alt="Neovim" height="40" />
+      <img src="https://cdn.simpleicons.org/neovim/51EEFC" alt="Neovim" height="40" />
       <br /><strong>Neovim</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/zedindustries/E8112D" alt="Zed" height="40" />
+      <img src="https://cdn.simpleicons.org/zedindustries/1269CC" alt="Zed" height="40" />
       <br /><strong>Zed</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/godotengine/E8112D" alt="Godot" height="40" />
+      <img src="https://cdn.simpleicons.org/godotengine/1269CC" alt="Godot" height="40" />
       <br /><strong>Godot</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/obsidian/E8112D" alt="Obsidian" height="40" />
+      <img src="https://cdn.simpleicons.org/obsidian/1269CC" alt="Obsidian" height="40" />
       <br /><strong>Obsidian</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/ollama/E8112D" alt="Ollama" height="40" />
+      <img src="https://cdn.simpleicons.org/ollama/1269CC" alt="Ollama" height="40" />
       <br /><strong>Ollama</strong>
     </td>
   </tr>
 </table>
+
+<img src="./assets/divider.svg" alt="divider" width="100%" />
 
 ## Now
 
@@ -106,6 +112,8 @@ Construyo, depuro y repito hasta que el sistema funciona.
 - **Sistema**: Arch + Hyprland + omarchy, afinado a mi flujo.
 - **Curso rustlings**: fundamentos de Rust, ejercicio a ejercicio.
 - **Rumbo a DevOps**: contenedores, automatizacion, CI/CD e infraestructura.
+
+<img src="./assets/divider.svg" alt="divider" width="100%" />
 
 ## Ratatui (Rust)
 
@@ -115,36 +123,36 @@ Construyo, depuro y repito hasta que el sistema funciona.
       <img src="./ratatui-spin-dark.gif" alt="Ratatui spin" width="100%" />
     </td>
     <td width="40%" valign="top">
-      <strong>Interfaces en la terminal</strong><br />
-      <sub style="color:#8B949E;">Afinando el arte de las TUIs con Ratatui y crossterm.</sub>
+      <strong style="color:#51EEFC;">Interfaces en la terminal</strong><br />
+      <sub>Afinando el arte de las TUIs con Ratatui y crossterm.</sub>
     </td>
   </tr>
 </table>
+
+<img src="./assets/divider.svg" alt="divider" width="100%" />
 
 ## Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <strong>claculator-virtual</strong><br />
-      Calculadora virtual para entrenar logica.
+    <td width="50%" align="center">
+      <img src="./assets/card-claculator.svg" alt="claculator-virtual" width="100%" />
     </td>
-    <td width="50%">
-      <strong>Python-practice</strong><br />
-      Varios archivos .py para depurar, probar ideas y reforzar fundamentos.
+    <td width="50%" align="center">
+      <img src="./assets/card-python.svg" alt="Python-practice" width="100%" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <strong>Calendario-RD-6-meses</strong><br />
-      Calendario para seguimiento semestral.
+    <td width="50%" align="center">
+      <img src="./assets/card-calendario.svg" alt="Calendario-RD-6-meses" width="100%" />
     </td>
-    <td width="50%">
-      <strong>RPG TUI (en desarrollo)</strong><br />
-      Juego por turnos en Rust, inspirado en Persona. En local, proximamente.
+    <td width="50%" align="center">
+      <img src="./assets/card-rpg.svg" alt="RPG TUI" width="100%" />
     </td>
   </tr>
 </table>
+
+<img src="./assets/divider.svg" alt="divider" width="100%" />
 
 ## About
 
@@ -153,20 +161,24 @@ Construyo, depuro y repito hasta que el sistema funciona.
 - Entender Linux, Git y sistemas por dentro.
 - Objetivo: construir y operar infraestructura como DevOps.
 
+<img src="./assets/divider.svg" alt="divider" width="100%" />
+
 ## Skills
 
 <table>
   <tr>
-    <td><strong>Languages</strong><br />Rust, Python</td>
-    <td><strong>System</strong><br />Linux, Arch, Hyprland</td>
-    <td><strong>Version control</strong><br />Git / GitHub</td>
+    <td><strong style="color:#51EEFC;">Languages</strong><br />Rust, Python</td>
+    <td><strong style="color:#51EEFC;">System</strong><br />Linux, Arch, Hyprland</td>
+    <td><strong style="color:#51EEFC;">Version control</strong><br />Git / GitHub</td>
   </tr>
   <tr>
-    <td><strong>Style</strong><br />Console-first, minimal, direct</td>
-    <td><strong>Strengths</strong><br />Logic, debugging, structure</td>
-    <td><strong>Interests</strong><br />DevOps, data, systems</td>
+    <td><strong style="color:#51EEFC;">Style</strong><br />Console-first, minimal, direct</td>
+    <td><strong style="color:#51EEFC;">Strengths</strong><br />Logic, debugging, structure</td>
+    <td><strong style="color:#51EEFC;">Interests</strong><br />DevOps, data, systems</td>
   </tr>
 </table>
+
+<img src="./assets/divider.svg" alt="divider" width="100%" />
 
 ## What I am building now
 
@@ -175,6 +187,8 @@ Construyo, depuro y repito hasta que el sistema funciona.
 - Un flujo de terminal mas rapido con omarchy.
 - Fundamentos de DevOps: Docker, CI/CD, automatizacion.
 
+<img src="./assets/divider.svg" alt="divider" width="100%" />
+
 ## Principles
 
 - Primero los fundamentos.
@@ -182,45 +196,47 @@ Construyo, depuro y repito hasta que el sistema funciona.
 - Probar, corregir, repetir.
 - Documentar tambien construye.
 
+<img src="./assets/divider.svg" alt="divider" width="100%" />
+
 ## Find me
 
 <table>
   <tr>
-    <td align="center" width="25%" style="background:#0B0F14;border:1px solid #E8112D;border-radius:14px;padding:14px;">
+    <td align="center" width="25%" style="background:#0B2A5B;border:1px solid #1269CC;border-radius:14px;padding:14px;">
       <a href="https://github.com/Johannuel" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="40" />
       </a>
       <br />
       <strong style="color:#F0F6FC;">GitHub</strong><br />
-      <sub style="color:#8B949E;">@Johannuel</sub>
+      <sub style="color:#6D9AC7;">@Johannuel</sub>
     </td>
-    <td align="center" width="25%" style="background:#0B0F14;border:1px solid #E8112D;border-radius:14px;padding:14px;">
+    <td align="center" width="25%" style="background:#0B2A5B;border:1px solid #1269CC;border-radius:14px;padding:14px;">
       <a href="https://discord.com/users/1515540388008431717" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/discord/ffffff" alt="Discord" height="40" />
       </a>
       <br />
       <strong style="color:#F0F6FC;">Discord</strong><br />
-      <sub style="color:#8B949E;">mfv_code</sub>
+      <sub style="color:#6D9AC7;">mfv_code</sub>
     </td>
-    <td align="center" width="25%" style="background:#0B0F14;border:1px solid #E8112D;border-radius:14px;padding:14px;">
+    <td align="center" width="25%" style="background:#0B2A5B;border:1px solid #1269CC;border-radius:14px;padding:14px;">
       <a href="https://hashnode.com/@mf-coder" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/hashnode/ffffff" alt="Hashnode" height="40" />
       </a>
       <br />
       <strong style="color:#F0F6FC;">Hashnode</strong><br />
-      <sub style="color:#8B949E;">@mf-coder</sub>
+      <sub style="color:#6D9AC7;">@mf-coder</sub>
     </td>
-    <td align="center" width="25%" style="background:#0B0F14;border:1px solid #E8112D;border-radius:14px;padding:14px;">
+    <td align="center" width="25%" style="background:#0B2A5B;border:1px solid #1269CC;border-radius:14px;padding:14px;">
       <a href="https://instagram.com/chrollo_jv_" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/instagram/ffffff" alt="Instagram" height="40" />
       </a>
       <br />
       <strong style="color:#F0F6FC;">Instagram</strong><br />
-      <sub style="color:#8B949E;">@chrollo_jv_</sub>
+      <sub style="color:#6D9AC7;">@chrollo_jv_</sub>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <sub>Open source, systems, and deliberate progress.</sub>
+  <sub>Memento mori · Open source · Systems · Progress</sub>
 </div>

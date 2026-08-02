@@ -1,118 +1,255 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-label="MF CODER — Phantom Thief of Code">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="500" viewBox="0 0 1500 500">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&amp;family=Rajdhani:wght@300;500;700&amp;display=swap');
+
+    @keyframes rise {
+      0%   { transform: translateY(0);    opacity: 0; }
+      10%  { opacity: 0.55; }
+      90%  { opacity: 0.35; }
+      100% { transform: translateY(-150px); opacity: 0; }
+    }
+    @keyframes float {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-70px); }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.85; }
+      50%      { opacity: 1; }
+    }
+    @keyframes spin {
+      100% { transform: rotate(360deg); }
+    }
+    @keyframes shimmer {
+      0%   { transform: translateX(-260px); }
+      100% { transform: translateX(980px); }
+    }
+    @keyframes flip {
+      0%, 100% { transform: scaleX(1); }
+      12%, 28% { transform: scaleX(0.08); }
+      40%      { transform: scaleX(1); }
+    }
+    @keyframes faceA {
+      0%, 10% { opacity: 1; }
+      16%, 34% { opacity: 0; }
+      40%, 100% { opacity: 1; }
+    }
+    @keyframes faceB {
+      0%, 10% { opacity: 0; }
+      16%, 34% { opacity: 1; }
+      40%, 100% { opacity: 0; }
+    }
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.12; }
+      50%      { opacity: 0.7; }
+    }
+    @keyframes bob {
+      0%, 100% { transform: translateY(0); }
+      50%      { transform: translateY(-8px); }
+    }
+
+    .rise  { animation: rise 10s linear infinite; transform-box: fill-box; }
+    .rise2 { animation: rise 14s linear infinite; transform-box: fill-box; }
+    .rise3 { animation: rise 18s linear infinite; transform-box: fill-box; }
+    .wave  { animation: float 16s ease-in-out infinite alternate; }
+    .wave2 { animation: float 22s ease-in-out infinite alternate-reverse; }
+    .pulse { animation: pulse 5s ease-in-out infinite; }
+    .spin  { animation: spin 28s linear infinite; transform-origin: center; transform-box: fill-box; }
+    .spin-fast { animation: spin 12s linear infinite; transform-origin: center; transform-box: fill-box; }
+    .shimmer { animation: shimmer 5s linear infinite; }
+    .shimmer2 { animation: shimmer 5s linear infinite; animation-delay: 2.5s; }
+    .flipcard { animation: flip 6s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+    .face-a { animation: faceA 6s ease-in-out infinite; }
+    .face-b { animation: faceB 6s ease-in-out infinite; }
+    .twinkle { animation: twinkle 3.5s ease-in-out infinite; }
+    .bob { animation: bob 6s ease-in-out infinite; transform-box: fill-box; }
+  </style>
+
   <defs>
-    <linearGradient id="redGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FF2E3C"/>
-      <stop offset="45%" stop-color="#E60012"/>
-      <stop offset="100%" stop-color="#8F0010"/>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#05070D"/>
+      <stop offset="55%" stop-color="#0B2A5B"/>
+      <stop offset="100%" stop-color="#1269CC"/>
     </linearGradient>
-    <linearGradient id="darkRed" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#C41E3A"/>
-      <stop offset="100%" stop-color="#5A0008"/>
+    <radialGradient id="lunaHalo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#CFE3FF" stop-opacity="0.5"/>
+      <stop offset="55%" stop-color="#CFE3FF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#CFE3FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bubbleGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#51EEFC" stop-opacity="0.55"/>
+      <stop offset="70%" stop-color="#51EEFC" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#51EEFC" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#51EEFC"/>
+      <stop offset="45%" stop-color="#F2F7FF"/>
+      <stop offset="100%" stop-color="#51EEFC"/>
     </linearGradient>
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#E60012" flood-opacity="0.85"/>
+    <linearGradient id="shimmerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#51EEFC" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#51EEFC" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#51EEFC" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
-    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
-      <feDropShadow dx="0" dy="0" stdDeviation="16" flood-color="#E60012" flood-opacity="0.5"/>
+    <filter id="glowSoft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
-    <pattern id="stripes" width="46" height="46" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-      <rect width="10" height="46" fill="#E60012" opacity="0.10"/>
-    </pattern>
-    <clipPath id="band1"><rect x="0" y="182" width="1500" height="22" transform="rotate(-2 750 193)"/></clipPath>
-    <clipPath id="band2"><rect x="0" y="252" width="1500" height="16" transform="rotate(2.5 750 260)"/></clipPath>
-    <clipPath id="band3"><rect x="0" y="296" width="1500" height="26" transform="rotate(-1.5 750 309)"/></clipPath>
+    <clipPath id="titleClip">
+      <text x="575" y="305" font-family="Rajdhani" font-weight="700" font-size="124" transform="skewX(-6)">MF CODER</text>
+    </clipPath>
+    <path id="sealArc" d="M 0 -62 A 62 62 0 1 1 -0.01 -62" fill="none"/>
+    <path id="sealArc2" d="M 0 -54 A 54 54 0 1 0 -0.01 -54" fill="none"/>
   </defs>
 
-  <rect width="1500" height="500" fill="#0A0A0A"/>
-  <rect width="1500" height="500" fill="url(#stripes)"/>
+  <!-- ===== fondo ===== -->
+  <rect width="1500" height="500" fill="url(#bgGrad)"/>
 
-  <polygon points="0,0 1500,0 0,500" fill="#E60012" opacity="0.045"/>
-  <polygon points="1500,0 1500,500 0,500" fill="#E60012" opacity="0.045"/>
-
-  <rect x="0" y="0" width="1500" height="6" fill="#E60012"/>
-  <rect x="0" y="494" width="1500" height="6" fill="#E60012"/>
-
-  <polygon points="0,0 84,0 0,84" fill="#E60012"/>
-  <polygon points="1500,500 1416,500 1500,416" fill="#E60012"/>
-  <polygon points="1416,0 1500,0 1500,84" fill="#C41E3A" opacity="0.55"/>
-  <polygon points="0,500 0,416 84,500" fill="#C41E3A" opacity="0.55"/>
-
-  <g transform="translate(45,45)">
-    <polygon points="0,0 1410,0 1410,410 0,410" fill="none" stroke="#2A2A2A" stroke-width="2"/>
-    <polygon points="6,6 1404,6 1404,404 6,404" fill="none" stroke="#E60012" stroke-width="1.5"/>
-    <polygon points="0,0 34,0 0,34" fill="#0A0A0A"/>
-    <polygon points="1410,0 1376,0 1410,34" fill="#0A0A0A"/>
-    <polygon points="0,410 34,410 0,376" fill="#0A0A0A"/>
-    <polygon points="1410,410 1376,410 1410,376" fill="#0A0A0A"/>
+  <!-- bandas diagonales de profundidad -->
+  <g stroke="#6D9AC7" stroke-opacity="0.07" stroke-width="2">
+    <line x1="-100" y1="120" x2="500" y2="-60"/>
+    <line x1="-100" y1="260" x2="700" y2="-60"/>
+    <line x1="600" y1="560" x2="1300" y2="240"/>
+    <line x1="900" y1="560" x2="1600" y2="240"/>
   </g>
 
-  <g transform="rotate(-4 210 260)">
-    <rect x="45" y="85" width="300" height="360" fill="#F2F2F2"/>
-    <path d="M45,95 L345,95 L345,420 L45,445 Z" fill="none" stroke="#E60012" stroke-width="5"/>
-    <path d="M45,95 L345,95 L345,420 L45,445 Z" fill="none" stroke="#111111" stroke-width="1.5" transform="translate(0,7)"/>
-    <path d="M75,105 L315,105 L315,150 L75,150 Z" fill="#111111"/>
-    <text x="195" y="136" text-anchor="middle" font-family="'Courier New',monospace" font-size="17" font-weight="bold" letter-spacing="6" fill="#F2F2F2">TAKE YOUR TIME</text>
-    <text x="195" y="250" text-anchor="middle" font-family="'Arial Black','Impact',sans-serif" font-size="74" font-weight="900" letter-spacing="2" fill="#111111">WANTED</text>
-    <polygon points="75,285 315,285 195,335" fill="#E60012"/>
-    <text x="195" y="375" text-anchor="middle" font-family="'Courier New',monospace" font-size="30" font-weight="bold" letter-spacing="10" fill="#E60012">MF CODER</text>
-    <text x="195" y="405" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" letter-spacing="3" fill="#555555">REWARD: ONE GOOD COMMIT</text>
+  <!-- ===== luna ===== -->
+  <g class="pulse">
+    <circle cx="175" cy="180" r="175" fill="url(#lunaHalo)"/>
+    <circle cx="175" cy="180" r="88" fill="#F2F7FF" fill-opacity="0.92"/>
+    <circle cx="175" cy="180" r="88" fill="none" stroke="#51EEFC" stroke-opacity="0.35" stroke-width="2"/>
+    <circle cx="175" cy="180" r="98" fill="none" stroke="#6D9AC7" stroke-opacity="0.3" stroke-width="1"/>
+    <!-- cráteres -->
+    <circle cx="150" cy="160" r="9" fill="#9FB8D8" fill-opacity="0.55"/>
+    <circle cx="198" cy="150" r="6" fill="#9FB8D8" fill-opacity="0.4"/>
+    <circle cx="176" cy="212" r="7" fill="#9FB8D8" fill-opacity="0.45"/>
   </g>
 
-  <g transform="skewX(-8)">
-    <text x="742" y="328" text-anchor="middle" font-family="'Arial Black','Impact','Franklin Gothic Heavy',sans-serif" font-size="192" font-weight="900" letter-spacing="-14" fill="#000000" transform="translate(9,12)">MF CODER</text>
-    <text x="742" y="328" text-anchor="middle" font-family="'Arial Black','Impact','Franklin Gothic Heavy',sans-serif" font-size="192" font-weight="900" letter-spacing="-14" fill="url(#redGrad)" filter="url(#glow)">MF CODER</text>
+  <!-- ===== Memento Mori ===== -->
+  <g>
+    <text x="85" y="108" font-family="UnifrakturMaguntia" font-size="52" fill="#F2F7FF" fill-opacity="0.95">Memento Mori</text>
+    <text x="90" y="148" font-family="Rajdhani" font-weight="500" font-size="19" letter-spacing="9" fill="#51EEFC">RELOAD</text>
+    <line x1="90" y1="162" x2="240" y2="162" stroke="#51EEFC" stroke-opacity="0.4" stroke-width="1"/>
+    <circle cx="240" cy="162" r="3" fill="#C9A24B" fill-opacity="0.9"/>
   </g>
 
-  <g clip-path="url(#band1)" transform="translate(18,0)">
-    <g transform="skewX(-8)">
-      <text x="742" y="328" text-anchor="middle" font-family="'Arial Black','Impact','Franklin Gothic Heavy',sans-serif" font-size="192" font-weight="900" letter-spacing="-14" fill="#FF4A55">MF CODER</text>
+  <!-- ===== caustics de agua ===== -->
+  <path class="wave" d="M0 400 Q 150 376 300 400 T 600 400 T 900 400 T 1200 400 T 1500 400" fill="none" stroke="#51EEFC" stroke-opacity="0.13" stroke-width="2"/>
+  <path class="wave2" d="M0 436 Q 150 460 300 436 T 600 436 T 900 436 T 1200 436 T 1500 436" fill="none" stroke="#51EEFC" stroke-opacity="0.1" stroke-width="2"/>
+  <path class="wave" d="M0 468 Q 150 452 300 468 T 600 468 T 900 468 T 1200 468 T 1500 468" fill="none" stroke="#6D9AC7" stroke-opacity="0.14" stroke-width="2"/>
+
+  <!-- ===== burbujas ===== -->
+  <g>
+    <circle class="rise"  cx="120" cy="430" r="26" fill="url(#bubbleGrad)" style="animation-delay: 0s"/>
+    <circle class="rise"  cx="120" cy="430" r="26" fill="none" stroke="#51EEFC" stroke-opacity="0.5" stroke-width="1.2"/>
+    <circle class="rise2" cx="330" cy="480" r="38" fill="url(#bubbleGrad)" style="animation-delay: 3s"/>
+    <circle class="rise2" cx="330" cy="480" r="38" fill="none" stroke="#51EEFC" stroke-opacity="0.35" stroke-width="1.2"/>
+    <circle class="rise3" cx="700" cy="420" r="16" fill="url(#bubbleGrad)" style="animation-delay: 1.5s"/>
+    <circle class="rise3" cx="700" cy="420" r="16" fill="none" stroke="#51EEFC" stroke-opacity="0.4" stroke-width="1"/>
+    <circle class="rise"  cx="950" cy="470" r="22" fill="url(#bubbleGrad)" style="animation-delay: 5s"/>
+    <circle class="rise"  cx="950" cy="470" r="22" fill="none" stroke="#51EEFC" stroke-opacity="0.4" stroke-width="1"/>
+    <circle class="rise2" cx="1420" cy="450" r="30" fill="url(#bubbleGrad)" style="animation-delay: 2s"/>
+    <circle class="rise2" cx="1420" cy="450" r="30" fill="none" stroke="#51EEFC" stroke-opacity="0.35" stroke-width="1.2"/>
+    <circle class="rise3" cx="1150" cy="440" r="12" fill="url(#bubbleGrad)" style="animation-delay: 7s"/>
+    <circle class="rise3" cx="1150" cy="440" r="12" fill="none" stroke="#51EEFC" stroke-opacity="0.45" stroke-width="1"/>
+  </g>
+
+  <!-- ===== sparkles ===== -->
+  <g fill="#F2F7FF">
+    <circle class="twinkle" cx="480" cy="90" r="2" style="animation-delay: 0.4s"/>
+    <circle class="twinkle" cx="610" cy="150" r="1.6" style="animation-delay: 1.2s"/>
+    <circle class="twinkle" cx="870" cy="70" r="2.2" style="animation-delay: 2.1s"/>
+    <circle class="twinkle" cx="1040" cy="130" r="1.5" style="animation-delay: 0.9s"/>
+    <circle class="twinkle" cx="1350" cy="110" r="2" style="animation-delay: 1.7s"/>
+    <circle class="twinkle" cx="300" cy="320" r="1.6" style="animation-delay: 2.6s"/>
+    <circle class="twinkle" cx="700" cy="240" r="1.5" style="animation-delay: 0.2s"/>
+    <circle class="twinkle" cx="1390" cy="330" r="1.8" style="animation-delay: 3.1s"/>
+  </g>
+
+  <!-- ===== titulo MF CODER ===== -->
+  <text x="575" y="305" font-family="Rajdhani" font-weight="700" font-size="124" transform="skewX(-6)" fill="url(#titleGrad)" filter="url(#glow)">MF CODER</text>
+
+  <!-- bandas de agua sobre el titulo -->
+  <g clip-path="url(#titleClip)">
+    <rect class="shimmer" x="0" y="160" width="90" height="140" fill="url(#shimmerGrad)" transform="skewX(-15)"/>
+    <rect class="shimmer2" x="0" y="160" width="90" height="140" fill="url(#shimmerGrad)" transform="skewX(-15)"/>
+  </g>
+
+  <!-- ===== tagline ===== -->
+  <text x="575" y="350" font-family="Rajdhani" font-weight="300" font-size="25" letter-spacing="8" fill="#6D9AC7">[ RUST · LINUX · DEVOPS ]</text>
+  <line x1="575" y1="368" x2="930" y2="368" stroke="#1269CC" stroke-opacity="0.6" stroke-width="1"/>
+
+  <!-- ===== sello SEES ===== -->
+  <g transform="translate(230, 352)">
+    <g class="spin">
+      <circle r="80" fill="none" stroke="#51EEFC" stroke-opacity="0.55" stroke-width="1.6"/>
+      <circle r="70" fill="none" stroke="#6D9AC7" stroke-opacity="0.35" stroke-width="1"/>
+      <text font-family="Rajdhani" font-weight="500" font-size="14" letter-spacing="3.5" fill="#F2F7FF" fill-opacity="0.9">
+        <textPath href="#sealArc" startOffset="0">PHANTOM OF CODE · MF CODER ·</textPath>
+      </text>
+      <text font-family="Rajdhani" font-weight="500" font-size="11" letter-spacing="2.5" fill="#51EEFC" fill-opacity="0.75">
+        <textPath href="#sealArc2" startOffset="0">EST · MMIX · SEES ·</textPath>
+      </text>
+    </g>
+    <g class="spin-fast">
+      <polygon points="0,-34 29,17 -29,17" fill="none" stroke="#51EEFC" stroke-opacity="0.8" stroke-width="1.5"/>
+      <polygon points="0,-20 17,10 -17,10" fill="none" stroke="#C9A24B" stroke-opacity="0.95" stroke-width="1.5"/>
+    </g>
+    <circle r="6" fill="#C9A24B"/>
+  </g>
+
+  <!-- ===== tarjeta tarot ===== -->
+  <g transform="translate(1285, 255)">
+    <g class="flipcard">
+      <!-- cara: THE FOOL 0 -->
+      <g class="face-a">
+        <rect x="-72" y="-108" width="144" height="216" rx="6" fill="#EAF3FF"/>
+        <rect x="-66" y="-102" width="132" height="204" rx="3" fill="none" stroke="#C9A24B" stroke-width="2"/>
+        <text x="0" y="-80" font-family="Rajdhani" font-weight="500" font-size="14" letter-spacing="3" fill="#1269CC" text-anchor="middle">THE FOOL</text>
+        <text x="0" y="34" font-family="Rajdhani" font-weight="700" font-size="72" fill="#0B2A5B" text-anchor="middle">0</text>
+        <circle cx="0" cy="30" r="16" fill="none" stroke="#C9A24B" stroke-width="1.5"/>
+        <line x1="-34" y1="52" x2="34" y2="52" stroke="#C9A24B" stroke-opacity="0.8" stroke-width="1.5"/>
+        <text x="0" y="80" font-family="Rajdhani" font-weight="500" font-size="13" letter-spacing="4" fill="#0B2A5B" text-anchor="middle">RELOAD</text>
+      </g>
+      <!-- dorso -->
+      <g class="face-b">
+        <rect x="-72" y="-108" width="144" height="216" rx="6" fill="#0B2A5B"/>
+        <rect x="-66" y="-102" width="132" height="204" rx="3" fill="none" stroke="#51EEFC" stroke-opacity="0.8" stroke-width="1.5"/>
+        <polygon points="0,-55 48,28 -48,28" fill="none" stroke="#51EEFC" stroke-opacity="0.7" stroke-width="1.5"/>
+        <polygon points="0,-32 27,16 -27,16" fill="none" stroke="#C9A24B" stroke-opacity="0.9" stroke-width="1.5"/>
+        <circle r="6" fill="#C9A24B"/>
+      </g>
     </g>
   </g>
-  <rect x="0" y="186" width="1500" height="2" fill="#F2F2F2" opacity="0.7" transform="rotate(-2 750 187)"/>
 
-  <g clip-path="url(#band2)" transform="translate(-15,3)">
-    <g transform="skewX(-8)">
-      <text x="742" y="328" text-anchor="middle" font-family="'Arial Black','Impact','Franklin Gothic Heavy',sans-serif" font-size="192" font-weight="900" letter-spacing="-14" fill="#A3000F">MF CODER</text>
-    </g>
-  </g>
-  <rect x="0" y="254" width="1500" height="2" fill="#E60012" opacity="0.8" transform="rotate(2.5 750 255)"/>
+  <!-- ===== fecha + marco ===== -->
+  <text x="1410" y="455" font-family="Rajdhani" font-weight="500" font-size="20" letter-spacing="4" fill="#51EEFC" fill-opacity="0.65" text-anchor="end">04.04.2009</text>
+  <text x="90" y="455" font-family="Rajdhani" font-weight="500" font-size="14" letter-spacing="3" fill="#6D9AC7" fill-opacity="0.8">NO. 001</text>
 
-  <g clip-path="url(#band3)" transform="translate(11,-4)">
-    <g transform="skewX(-8)">
-      <text x="742" y="328" text-anchor="middle" font-family="'Arial Black','Impact','Franklin Gothic Heavy',sans-serif" font-size="192" font-weight="900" letter-spacing="-14" fill="#FF2E3C" filter="url(#glow)">MF CODER</text>
-    </g>
-  </g>
-  <rect x="0" y="298" width="1500" height="2" fill="#F2F2F2" opacity="0.5" transform="rotate(-1.5 750 299)"/>
+  <rect x="16" y="16" width="1468" height="468" fill="none" stroke="#1269CC" stroke-opacity="0.5" stroke-width="1.5"/>
+  <rect x="24" y="24" width="1452" height="452" fill="none" stroke="#6D9AC7" stroke-opacity="0.22" stroke-width="1"/>
 
-  <text x="742" y="412" text-anchor="middle" font-family="'Courier New',monospace" font-size="26" letter-spacing="10" fill="#F2F2F2">[ RUST · LINUX · DEVOPS ]</text>
-
-  <g transform="rotate(6 1300 260)">
-    <rect x="1195" y="140" width="200" height="290" fill="#F2F2F2"/>
-    <rect x="1195" y="140" width="200" height="290" fill="none" stroke="#111111" stroke-width="3"/>
-    <text x="1295" y="215" text-anchor="middle" font-family="'Arial Black',sans-serif" font-size="15" font-weight="900" letter-spacing="4" fill="#111111">THE FOOL</text>
-    <polygon points="1295,235 1330,290 1295,345 1260,290" fill="none" stroke="#E60012" stroke-width="6"/>
-    <text x="1295" y="340" text-anchor="middle" font-family="'Arial Black',sans-serif" font-size="60" font-weight="900" fill="#E60012">0</text>
-    <text x="1295" y="405" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" letter-spacing="2" fill="#555555">BEGINNING OF CODE</text>
+  <!-- esquinas doradas -->
+  <g stroke="#C9A24B" stroke-opacity="0.95" stroke-width="3" fill="none">
+    <path d="M16 44 V30 Q16 16 30 16 H52"/>
+    <path d="M1448 16 H1470 Q1484 16 1484 30 V44"/>
+    <path d="M1484 456 V470 Q1484 484 1470 484 H1448"/>
+    <path d="M52 484 H30 Q16 484 16 470 V456"/>
   </g>
 
-  <g transform="rotate(-3 1230 340)">
-    <path d="M1210,330 L1245,300 L1280,322 L1315,300 L1350,330 L1350,368 L1305,348 L1305,388 L1255,388 L1255,348 L1210,368 Z" fill="#111111" stroke="#F2F2F2" stroke-width="3"/>
-    <polygon points="1268,322 1298,322 1283,344" fill="#E60012" filter="url(#softGlow)"/>
+  <!-- reflejo de luna en el agua -->
+  <g class="bob">
+    <ellipse cx="175" cy="470" rx="46" ry="5" fill="#51EEFC" fill-opacity="0.28"/>
+    <ellipse cx="175" cy="482" rx="26" ry="3" fill="#51EEFC" fill-opacity="0.18"/>
   </g>
-
-  <g stroke="#3D3D3D" stroke-width="5" fill="none">
-    <ellipse cx="1255" cy="420" rx="9" ry="14"/>
-    <ellipse cx="1273" cy="444" rx="9" ry="14"/>
-    <ellipse cx="1255" cy="468" rx="9" ry="14"/>
-    <ellipse cx="1273" cy="492" rx="9" ry="14"/>
-  </g>
-  <circle cx="1264" cy="514" r="7" fill="#E60012"/>
-
-  <text x="70" y="38" font-family="'Courier New',monospace" font-size="14" letter-spacing="3" fill="#666666">GITHUB PROFILE — 2026</text>
-  <text x="1430" y="38" text-anchor="end" font-family="'Courier New',monospace" font-size="14" font-weight="bold" letter-spacing="3" fill="#E60012">NO. 001</text>
-  <text x="1430" y="478" text-anchor="end" font-family="'Courier New',monospace" font-size="13" letter-spacing="3" fill="#555555">PHANTOM THIEF OF CODE</text>
-
-  <polygon points="500,500 540,500 500,460" fill="#E60012" opacity="0.5"/>
-  <polygon points="980,0 1020,0 1020,40" fill="#E60012" opacity="0.5"/>
-  <polygon points="420,0 448,0 448,28" fill="#E60012" opacity="0.35"/>
 </svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40">
+  <style>
+    @keyframes waveFloat {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-60px); }
+    }
+    @keyframes twink {
+      0%, 100% { opacity: 0.15; }
+      50%      { opacity: 0.8; }
+    }
+    .w1 { animation: waveFloat 14s ease-in-out infinite alternate; }
+    .w2 { animation: waveFloat 10s ease-in-out infinite alternate-reverse; }
+    .sparkle { animation: twink 3s ease-in-out infinite; }
+  </style>
+  <path class="w1" d="M0 24 Q 75 15 150 24 T 300 24 T 450 24 T 600 24 T 750 24 T 900 24" fill="none" stroke="#1269CC" stroke-opacity="0.65" stroke-width="2"/>
+  <path class="w2" d="M0 30 Q 75 36 150 30 T 300 30 T 450 30 T 600 30 T 750 30 T 900 30" fill="none" stroke="#51EEFC" stroke-opacity="0.4" stroke-width="1.5"/>
+  <circle class="sparkle" cx="150" cy="12" r="2" fill="#51EEFC" style="animation-delay: 0.4s"/>
+  <circle class="sparkle" cx="450" cy="8" r="2.2" fill="#F2F7FF" style="animation-delay: 1.2s"/>
+  <circle class="sparkle" cx="760" cy="14" r="1.8" fill="#51EEFC" style="animation-delay: 2s"/>
+  <circle cx="450" cy="18" r="3" fill="#C9A24B"/>
+  <circle cx="450" cy="18" r="7" fill="none" stroke="#C9A24B" stroke-opacity="0.5" stroke-width="1"/>
+</svg>

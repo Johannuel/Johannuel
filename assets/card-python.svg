@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="150" viewBox="0 0 400 150">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500;700&amp;display=swap');
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A1E44"/>
+      <stop offset="100%" stop-color="#0B2A5B"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="150" rx="10" fill="url(#bg)"/>
+  <rect x="4" y="4" width="392" height="142" rx="7" fill="none" stroke="#1269CC" stroke-opacity="0.8" stroke-width="1.5"/>
+  <rect x="10" y="10" width="380" height="130" rx="5" fill="none" stroke="#51EEFC" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="22" y="40" font-family="Rajdhani" font-weight="700" font-size="22" fill="#F2F7FF">Python-practice</text>
+  <line x1="22" y1="52" x2="58" y2="52" stroke="#51EEFC" stroke-opacity="0.9" stroke-width="2"/>
+  <text x="22" y="78" font-family="Rajdhani" font-weight="300" font-size="15" fill="#6D9AC7">Varios archivos .py para depurar,</text>
+  <text x="22" y="98" font-family="Rajdhani" font-weight="300" font-size="15" fill="#6D9AC7">probar ideas y reforzar fundamentos.</text>
+  <rect x="22" y="112" width="94" height="22" rx="11" fill="none" stroke="#C9A24B" stroke-opacity="0.9" stroke-width="1.5"/>
+  <text x="69" y="127" font-family="Rajdhani" font-weight="500" font-size="12" letter-spacing="2" fill="#C9A24B" text-anchor="middle">DEPURAR</text>
+  <text x="372" y="124" font-family="Rajdhani" font-weight="700" font-size="64" fill="#51EEFC" fill-opacity="0.08" text-anchor="end">02</text>
+</svg>
