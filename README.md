@@ -108,10 +108,20 @@ Construyo, depuro y repito hasta que el sistema funciona.
 
 ## Now
 
-- **Juego TUI en Rust** inspirado en Persona 3 Portable (combate por turnos, crossterm).
-- **Sistema**: Arch + Hyprland + omarchy, afinado a mi flujo.
-- **Curso rustlings**: fundamentos de Rust, ejercicio a ejercicio.
-- **Rumbo a DevOps**: contenedores, automatizacion, CI/CD e infraestructura.
+<table>
+  <tr>
+    <td width="70%">
+      - **Juego TUI en Rust** inspirado en Persona 3 Portable (combate por turnos, crossterm).<br />
+      - **Sistema**: Arch + Hyprland + omarchy, afinado a mi flujo.<br />
+      - **Curso rustlings**: fundamentos de Rust, ejercicio a ejercicio.<br />
+      - **Rumbo a DevOps**: contenedores, automatizacion, CI/CD e infraestructura.
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="./assets/jackfrost.gif" alt="Jack Frost" width="100%" /><br />
+      <sub>Jack Frost aprueba tu progreso.</sub>
+    </td>
+  </tr>
+</table>
 
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
