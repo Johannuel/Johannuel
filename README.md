@@ -173,7 +173,7 @@ Construyo, depuro y repito hasta que el sistema funciona.
 <table>
   <tr>
     <td align="center" width="25%" style="background:#0B0F14;border:1px solid #E8112D;border-radius:14px;padding:14px;">
-      <a href="https://github.com/mf-coder" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/mf_coder" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="40" />
       </a>
       <br />
