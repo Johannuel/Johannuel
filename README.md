@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="./profile-banner.svg" alt="Johannuel profile banner" width="100%" />
+  <img src="./profile-banner.svg" alt="MF coder profile banner" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
 
-# Johannuel
+# MF coder
 
 **Rust. Linux. DevOps.**
 
@@ -173,12 +173,12 @@ Construyo, depuro y repito hasta que el sistema funciona.
 <table>
   <tr>
     <td align="center" width="25%" style="background:#0B0F14;border:1px solid #E8112D;border-radius:14px;padding:14px;">
-      <a href="https://github.com/Johannuel" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/mf-coder" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="40" />
       </a>
       <br />
       <strong style="color:#F0F6FC;">GitHub</strong><br />
-      <sub style="color:#8B949E;">@Johannuel</sub>
+      <sub style="color:#8B949E;">@mf-coder</sub>
     </td>
     <td align="center" width="25%" style="background:#0B0F14;border:1px solid #E8112D;border-radius:14px;padding:14px;">
       <a href="https://discord.com/users/1515540388008431717" target="_blank" rel="noopener noreferrer">

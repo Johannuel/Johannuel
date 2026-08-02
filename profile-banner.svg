@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Johannuel — Rust Linux DevOps">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="MF coder — Rust Linux DevOps">
   <defs>
     <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#FF2E3C"/>
@@ -47,7 +47,7 @@
 
   <!-- titulo -->
   <g transform="skewX(-6)">
-    <text x="660" y="178" text-anchor="middle" font-family="'Arial Black','Impact','Franklin Gothic Bold',sans-serif" font-size="118" font-weight="900" letter-spacing="12" fill="url(#redGrad)" filter="url(#glow)">JOHANNUEL</text>
+    <text x="660" y="178" text-anchor="middle" font-family="'Arial Black','Impact','Franklin Gothic Bold',sans-serif" font-size="104" font-weight="900" letter-spacing="12" fill="url(#redGrad)" filter="url(#glow)">MF CODER</text>
   </g>
 
   <!-- tagline -->
