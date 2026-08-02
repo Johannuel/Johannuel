@@ -85,19 +85,6 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
 
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-<h2 align="center">Now</h2>
-
-<div align="center">
-
-- **Juego TUI en Rust** inspirado en Persona 3 Portable (combate por turnos, crossterm).
-- **Sistema**: Arch + Hyprland + omarchy, afinado a mi flujo.
-- **Curso rustlings**: fundamentos de Rust, ejercicio a ejercicio.
-- **Fundamentos de DevOps**: Docker, CI/CD, automatizacion, infraestructura.
-
-</div>
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
 <h2 align="center">Projects</h2>
 
 <div align="center">
