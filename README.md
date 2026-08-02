@@ -92,7 +92,14 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/card-python.svg" alt="Python-practice" width="50%" />
+      <a href="https://github.com/Johannuel/Python-practice" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/card-python.svg" alt="Python-practice" width="80%" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Johannuel/persona-rpg" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/card-rpg.svg" alt="persona-rpg" width="80%" />
+      </a>
     </td>
   </tr>
 </table>
