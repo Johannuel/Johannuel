@@ -107,6 +107,20 @@ Construyo, depuro y repito hasta que el sistema funciona.
 - **Curso rustlings**: fundamentos de Rust, ejercicio a ejercicio.
 - **Rumbo a DevOps**: contenedores, automatizacion, CI/CD e infraestructura.
 
+## Ratatui (Rust)
+
+<table>
+  <tr>
+    <td width="60%">
+      <img src="./ratatui-spin-dark.gif" alt="Ratatui spin" width="100%" />
+    </td>
+    <td width="40%" valign="top">
+      <strong>Interfaces en la terminal</strong><br />
+      <sub style="color:#8B949E;">Afinando el arte de las TUIs con Ratatui y crossterm.</sub>
+    </td>
+  </tr>
+</table>
+
 ## Projects
 
 <table>

@@ -1,58 +1,118 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="MF coder — Rust Linux DevOps">
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-label="MF CODER — Phantom Thief of Code">
   <defs>
-    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="redGrad" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#FF2E3C"/>
-      <stop offset="55%" stop-color="#E8112D"/>
-      <stop offset="100%" stop-color="#A80016"/>
+      <stop offset="45%" stop-color="#E60012"/>
+      <stop offset="100%" stop-color="#8F0010"/>
     </linearGradient>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <linearGradient id="darkRed" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#C41E3A"/>
+      <stop offset="100%" stop-color="#5A0008"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#E60012" flood-opacity="0.85"/>
     </filter>
-    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="14" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="0" stdDeviation="16" flood-color="#E60012" flood-opacity="0.5"/>
     </filter>
-    <pattern id="stripes" width="52" height="52" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-      <rect width="13" height="52" fill="#E8112D" opacity="0.14"/>
+    <pattern id="stripes" width="46" height="46" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="10" height="46" fill="#E60012" opacity="0.10"/>
     </pattern>
+    <clipPath id="band1"><rect x="0" y="182" width="1500" height="22" transform="rotate(-2 750 193)"/></clipPath>
+    <clipPath id="band2"><rect x="0" y="252" width="1500" height="16" transform="rotate(2.5 750 260)"/></clipPath>
+    <clipPath id="band3"><rect x="0" y="296" width="1500" height="26" transform="rotate(-1.5 750 309)"/></clipPath>
   </defs>
 
-  <!-- fondo -->
-  <rect width="1280" height="320" fill="#0B0B0C"/>
-  <rect width="1280" height="320" fill="url(#stripes)"/>
+  <rect width="1500" height="500" fill="#0A0A0A"/>
+  <rect width="1500" height="500" fill="url(#stripes)"/>
 
-  <!-- franjas rojas superior e inferior -->
-  <rect x="0" y="0" width="1280" height="5" fill="#E8112D"/>
-  <rect x="0" y="315" width="1280" height="5" fill="#E8112D"/>
+  <polygon points="0,0 1500,0 0,500" fill="#E60012" opacity="0.045"/>
+  <polygon points="1500,0 1500,500 0,500" fill="#E60012" opacity="0.045"/>
 
-  <!-- esquinas angulares -->
-  <polygon points="0,0 96,0 0,96" fill="#E8112D"/>
-  <polygon points="1280,320 1184,320 1280,224" fill="#E8112D"/>
-  <polygon points="1184,0 1280,0 1280,96" fill="#E8112D" opacity="0.4"/>
-  <polygon points="0,320 0,224 96,320" fill="#E8112D" opacity="0.4"/>
+  <rect x="0" y="0" width="1500" height="6" fill="#E60012"/>
+  <rect x="0" y="494" width="1500" height="6" fill="#E60012"/>
 
-  <!-- emblema angular izquierdo (estilo P) -->
-  <g transform="translate(120,160)">
-    <polygon points="0,-78 60,-78 60,-30 0,-30" fill="url(#redGrad)" filter="url(#softGlow)"/>
-    <polygon points="0,-22 60,-22 30,38" fill="url(#redGrad)" filter="url(#softGlow)"/>
-    <polygon points="12,44 48,44 30,86" fill="#E8112D"/>
+  <polygon points="0,0 84,0 0,84" fill="#E60012"/>
+  <polygon points="1500,500 1416,500 1500,416" fill="#E60012"/>
+  <polygon points="1416,0 1500,0 1500,84" fill="#C41E3A" opacity="0.55"/>
+  <polygon points="0,500 0,416 84,500" fill="#C41E3A" opacity="0.55"/>
+
+  <g transform="translate(45,45)">
+    <polygon points="0,0 1410,0 1410,410 0,410" fill="none" stroke="#2A2A2A" stroke-width="2"/>
+    <polygon points="6,6 1404,6 1404,404 6,404" fill="none" stroke="#E60012" stroke-width="1.5"/>
+    <polygon points="0,0 34,0 0,34" fill="#0A0A0A"/>
+    <polygon points="1410,0 1376,0 1410,34" fill="#0A0A0A"/>
+    <polygon points="0,410 34,410 0,376" fill="#0A0A0A"/>
+    <polygon points="1410,410 1376,410 1410,376" fill="#0A0A0A"/>
   </g>
 
-  <!-- titulo -->
-  <g transform="skewX(-6)">
-    <text x="660" y="178" text-anchor="middle" font-family="'Arial Black','Impact','Franklin Gothic Bold',sans-serif" font-size="104" font-weight="900" letter-spacing="12" fill="url(#redGrad)" filter="url(#glow)">MF CODER</text>
+  <g transform="rotate(-4 210 260)">
+    <rect x="45" y="85" width="300" height="360" fill="#F2F2F2"/>
+    <path d="M45,95 L345,95 L345,420 L45,445 Z" fill="none" stroke="#E60012" stroke-width="5"/>
+    <path d="M45,95 L345,95 L345,420 L45,445 Z" fill="none" stroke="#111111" stroke-width="1.5" transform="translate(0,7)"/>
+    <path d="M75,105 L315,105 L315,150 L75,150 Z" fill="#111111"/>
+    <text x="195" y="136" text-anchor="middle" font-family="'Courier New',monospace" font-size="17" font-weight="bold" letter-spacing="6" fill="#F2F2F2">TAKE YOUR TIME</text>
+    <text x="195" y="250" text-anchor="middle" font-family="'Arial Black','Impact',sans-serif" font-size="74" font-weight="900" letter-spacing="2" fill="#111111">WANTED</text>
+    <polygon points="75,285 315,285 195,335" fill="#E60012"/>
+    <text x="195" y="375" text-anchor="middle" font-family="'Courier New',monospace" font-size="30" font-weight="bold" letter-spacing="10" fill="#E60012">MF CODER</text>
+    <text x="195" y="405" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" letter-spacing="3" fill="#555555">REWARD: ONE GOOD COMMIT</text>
   </g>
 
-  <!-- tagline -->
-  <text x="660" y="238" text-anchor="middle" font-family="'Courier New',monospace" font-size="26" letter-spacing="12" fill="#C8CDD3">RUST · LINUX · DEVOPS</text>
+  <g transform="skewX(-8)">
+    <text x="742" y="328" text-anchor="middle" font-family="'Arial Black','Impact','Franklin Gothic Heavy',sans-serif" font-size="192" font-weight="900" letter-spacing="-14" fill="#000000" transform="translate(9,12)">MF CODER</text>
+    <text x="742" y="328" text-anchor="middle" font-family="'Arial Black','Impact','Franklin Gothic Heavy',sans-serif" font-size="192" font-weight="900" letter-spacing="-14" fill="url(#redGrad)" filter="url(#glow)">MF CODER</text>
+  </g>
 
-  <!-- flecha angular inferior -->
-  <polygon points="660,262 676,286 644,286" fill="#E8112D"/>
+  <g clip-path="url(#band1)" transform="translate(18,0)">
+    <g transform="skewX(-8)">
+      <text x="742" y="328" text-anchor="middle" font-family="'Arial Black','Impact','Franklin Gothic Heavy',sans-serif" font-size="192" font-weight="900" letter-spacing="-14" fill="#FF4A55">MF CODER</text>
+    </g>
+  </g>
+  <rect x="0" y="186" width="1500" height="2" fill="#F2F2F2" opacity="0.7" transform="rotate(-2 750 187)"/>
+
+  <g clip-path="url(#band2)" transform="translate(-15,3)">
+    <g transform="skewX(-8)">
+      <text x="742" y="328" text-anchor="middle" font-family="'Arial Black','Impact','Franklin Gothic Heavy',sans-serif" font-size="192" font-weight="900" letter-spacing="-14" fill="#A3000F">MF CODER</text>
+    </g>
+  </g>
+  <rect x="0" y="254" width="1500" height="2" fill="#E60012" opacity="0.8" transform="rotate(2.5 750 255)"/>
+
+  <g clip-path="url(#band3)" transform="translate(11,-4)">
+    <g transform="skewX(-8)">
+      <text x="742" y="328" text-anchor="middle" font-family="'Arial Black','Impact','Franklin Gothic Heavy',sans-serif" font-size="192" font-weight="900" letter-spacing="-14" fill="#FF2E3C" filter="url(#glow)">MF CODER</text>
+    </g>
+  </g>
+  <rect x="0" y="298" width="1500" height="2" fill="#F2F2F2" opacity="0.5" transform="rotate(-1.5 750 299)"/>
+
+  <text x="742" y="412" text-anchor="middle" font-family="'Courier New',monospace" font-size="26" letter-spacing="10" fill="#F2F2F2">[ RUST · LINUX · DEVOPS ]</text>
+
+  <g transform="rotate(6 1300 260)">
+    <rect x="1195" y="140" width="200" height="290" fill="#F2F2F2"/>
+    <rect x="1195" y="140" width="200" height="290" fill="none" stroke="#111111" stroke-width="3"/>
+    <text x="1295" y="215" text-anchor="middle" font-family="'Arial Black',sans-serif" font-size="15" font-weight="900" letter-spacing="4" fill="#111111">THE FOOL</text>
+    <polygon points="1295,235 1330,290 1295,345 1260,290" fill="none" stroke="#E60012" stroke-width="6"/>
+    <text x="1295" y="340" text-anchor="middle" font-family="'Arial Black',sans-serif" font-size="60" font-weight="900" fill="#E60012">0</text>
+    <text x="1295" y="405" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" letter-spacing="2" fill="#555555">BEGINNING OF CODE</text>
+  </g>
+
+  <g transform="rotate(-3 1230 340)">
+    <path d="M1210,330 L1245,300 L1280,322 L1315,300 L1350,330 L1350,368 L1305,348 L1305,388 L1255,388 L1255,348 L1210,368 Z" fill="#111111" stroke="#F2F2F2" stroke-width="3"/>
+    <polygon points="1268,322 1298,322 1283,344" fill="#E60012" filter="url(#softGlow)"/>
+  </g>
+
+  <g stroke="#3D3D3D" stroke-width="5" fill="none">
+    <ellipse cx="1255" cy="420" rx="9" ry="14"/>
+    <ellipse cx="1273" cy="444" rx="9" ry="14"/>
+    <ellipse cx="1255" cy="468" rx="9" ry="14"/>
+    <ellipse cx="1273" cy="492" rx="9" ry="14"/>
+  </g>
+  <circle cx="1264" cy="514" r="7" fill="#E60012"/>
+
+  <text x="70" y="38" font-family="'Courier New',monospace" font-size="14" letter-spacing="3" fill="#666666">GITHUB PROFILE — 2026</text>
+  <text x="1430" y="38" text-anchor="end" font-family="'Courier New',monospace" font-size="14" font-weight="bold" letter-spacing="3" fill="#E60012">NO. 001</text>
+  <text x="1430" y="478" text-anchor="end" font-family="'Courier New',monospace" font-size="13" letter-spacing="3" fill="#555555">PHANTOM THIEF OF CODE</text>
+
+  <polygon points="500,500 540,500 500,460" fill="#E60012" opacity="0.5"/>
+  <polygon points="980,0 1020,0 1020,40" fill="#E60012" opacity="0.5"/>
+  <polygon points="420,0 448,0 448,28" fill="#E60012" opacity="0.35"/>
 </svg>
