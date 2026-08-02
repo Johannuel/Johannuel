@@ -20,6 +20,20 @@ Aprobado por el usuario el 2026-08-02 con animación CSS incluida.
   con texto curvo, tarjeta de tarot volteándose (THE FOOL 0), fecha 04.04.2009,
   marco fino con esquinas doradas.
 
+## Banner v2 — "Menú de pausa P3R" (aprobado 2026-08-02, ref. video PL8FhfQNRS4)
+
+Emula el menú de pausa de P3R recreado en Godot:
+1. Fondo: superficie iluminada arriba (`#0E3D7A`) que se hunde a negro (`#02040A`),
+   rayos de luz verticales parpadeando, ondas de superficie animadas.
+2. Silueta del protagonista **cayendo de cabeza** en el agua (pelo flotando hacia
+   arriba, brazos extendidos hacia la superficie), con halo cian y burbujas que
+   ascienden desde él.
+3. Cintas de texto tipo menú ("RUST · LANG", "LINUX · SYS", "DEVOPS · GOAL") con
+   cursor triangular parpadeante a la izquierda.
+4. Confeti de polígonos (cian/dorado/blanco) con parpadeo.
+5. Se conservan: luna, Memento Mori + RELOAD, sello SEES, tarjeta THE FOOL 0,
+   fecha, marco con esquinas doradas.
+
 ## Banner `profile-banner.svg` (1500×500)
 
 Composición de izquierda a derecha:
