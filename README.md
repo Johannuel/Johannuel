@@ -20,28 +20,25 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
 
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-## Snapshot
+<h2 align="center">Snapshot</h2>
+
+<div align="center">
 
 <table>
   <tr>
-    <td>
-      <strong style="color:#51EEFC;">Focus</strong><br />
-      Rust, Linux, automatizacion, sistemas
-    </td>
-    <td>
-      <strong style="color:#51EEFC;">Mode</strong><br />
-      Construir, depurar, repetir
-    </td>
-    <td>
-      <strong style="color:#51EEFC;">Direction</strong><br />
-      DevOps: contenedores, CI/CD, infraestructura
-    </td>
+    <td><strong style="color:#51EEFC;">Focus</strong><br />Rust, Linux, automatizacion, sistemas</td>
+    <td><strong style="color:#51EEFC;">Mode</strong><br />Construir, depurar, repetir</td>
+    <td><strong style="color:#51EEFC;">Direction</strong><br />DevOps: contenedores, CI/CD, infraestructura</td>
   </tr>
 </table>
 
+</div>
+
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-## Stack
+<h2 align="center">Stack</h2>
+
+<div align="center">
 
 <table>
   <tr>
@@ -100,65 +97,80 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
   </tr>
 </table>
 
+</div>
+
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-## Now
+<h2 align="center">Now</h2>
+
+<div align="center">
 
 - **Juego TUI en Rust** inspirado en Persona 3 Portable (combate por turnos, crossterm).
 - **Sistema**: Arch + Hyprland + omarchy, afinado a mi flujo.
 - **Curso rustlings**: fundamentos de Rust, ejercicio a ejercicio.
 - **Fundamentos de DevOps**: Docker, CI/CD, automatizacion, infraestructura.
 
+</div>
+
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-## Projects
+<h2 align="center">Projects</h2>
+
+<div align="center">
 
 <table>
   <tr>
-    <td width="100%" align="center">
+    <td align="center">
       <img src="./assets/card-python.svg" alt="Python-practice" width="50%" />
     </td>
   </tr>
 </table>
 
+</div>
+
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-## About
+<h2 align="center">About</h2>
+
+<div align="center">
 
 - Base tecnica solida antes que frameworks.
 - Rust y la terminal como herramientas de trabajo.
 - Entender Linux, Git y sistemas por dentro.
 - Objetivo: construir y operar infraestructura como DevOps.
 
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
-## Skills
-
-<table>
-  <tr>
-    <td><strong style="color:#51EEFC;">Languages</strong><br />Rust, Python</td>
-    <td><strong style="color:#51EEFC;">System</strong><br />Linux, Arch, Hyprland</td>
-    <td><strong style="color:#51EEFC;">Version control</strong><br />Git / GitHub</td>
-  </tr>
-  <tr>
-    <td><strong style="color:#51EEFC;">Style</strong><br />Console-first, minimal, direct</td>
-    <td><strong style="color:#51EEFC;">Strengths</strong><br />Logic, debugging, structure</td>
-    <td><strong style="color:#51EEFC;">Interests</strong><br />DevOps, data, systems</td>
-  </tr>
-</table>
+</div>
 
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-## Principles
+<h2 align="center">Skills</h2>
+
+<div align="center">
+
+| **Languages**<br />Rust, Python | **System**<br />Linux, Arch, Hyprland | **Version control**<br />Git / GitHub |
+| :---: | :---: | :---: |
+| **Style**<br />Console-first, minimal, direct | **Strengths**<br />Logic, debugging, structure | **Interests**<br />DevOps, data, systems |
+
+</div>
+
+<img src="./assets/divider.svg" alt="divider" width="100%" />
+
+<h2 align="center">Principles</h2>
+
+<div align="center">
 
 - Primero los fundamentos.
 - Menos ruido. Mas precision.
 - Probar, corregir, repetir.
 - Documentar tambien construye.
 
+</div>
+
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-## Find me
+<h2 align="center">Find me</h2>
+
+<div align="center">
 
 <table>
   <tr>
@@ -204,6 +216,8 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
     </td>
   </tr>
 </table>
+
+</div>
 
 <div align="center">
   <sub>Open source, systems, and deliberate progress.</sub>
