@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# <span style="font-size:3.5em;">MF coder</span>
+# <span style="font-size:3.5em;">MF coder 👾</span>
 
 Linux enthusiast, becoming a DevOps engineer.
 
