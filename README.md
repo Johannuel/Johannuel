@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./profile-banner.svg" alt="MF CODER — Persona 3 Reload style banner" width="100%" />
+  <img src="./profile-banner.svg" alt="MF CODER banner" width="100%" />
+  <br />
+  <img src="./ratatui-spin-dark.gif" alt="" width="96" />
 </div>
 
 <br />
@@ -8,16 +10,10 @@
 
 # Johannuel
 
-**Rust. Linux. DevOps.**
+Linux enthusiast, becoming a DevOps engineer.
 
-Construyo, depuro y repito hasta que el sistema funciona.
+I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
 
-</div>
-
-<br />
-
-<div align="center">
-  <sub>Memento mori — todos los sistemas mueren. Los buenos, tarde.</sub>
 </div>
 
 <br />
@@ -108,36 +104,10 @@ Construyo, depuro y repito hasta que el sistema funciona.
 
 ## Now
 
-<table>
-  <tr>
-    <td width="70%">
-      - **Juego TUI en Rust** inspirado en Persona 3 Portable (combate por turnos, crossterm).<br />
-      - **Sistema**: Arch + Hyprland + omarchy, afinado a mi flujo.<br />
-      - **Curso rustlings**: fundamentos de Rust, ejercicio a ejercicio.<br />
-      - **Rumbo a DevOps**: contenedores, automatizacion, CI/CD e infraestructura.
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="./assets/jackfrost.gif" alt="Jack Frost" width="100%" /><br />
-      <sub>Jack Frost aprueba tu progreso.</sub>
-    </td>
-  </tr>
-</table>
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
-## Ratatui (Rust)
-
-<table>
-  <tr>
-    <td width="60%">
-      <img src="./ratatui-spin-dark.gif" alt="Ratatui spin" width="100%" />
-    </td>
-    <td width="40%" valign="top">
-      <strong style="color:#51EEFC;">Interfaces en la terminal</strong><br />
-      <sub>Afinando el arte de las TUIs con Ratatui y crossterm.</sub>
-    </td>
-  </tr>
-</table>
+- **Juego TUI en Rust** inspirado en Persona 3 Portable (combate por turnos, crossterm).
+- **Sistema**: Arch + Hyprland + omarchy, afinado a mi flujo.
+- **Curso rustlings**: fundamentos de Rust, ejercicio a ejercicio.
+- **Rumbo a DevOps**: contenedores, automatizacion, CI/CD e infraestructura.
 
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
@@ -237,5 +207,5 @@ Construyo, depuro y repito hasta que el sistema funciona.
 </table>
 
 <div align="center">
-  <sub>Memento mori · Open source · Systems · Progress</sub>
+  <sub>Open source, systems, and deliberate progress.</sub>
 </div>
