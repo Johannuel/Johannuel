@@ -107,7 +107,7 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
 - **Juego TUI en Rust** inspirado en Persona 3 Portable (combate por turnos, crossterm).
 - **Sistema**: Arch + Hyprland + omarchy, afinado a mi flujo.
 - **Curso rustlings**: fundamentos de Rust, ejercicio a ejercicio.
-- **Rumbo a DevOps**: contenedores, automatizacion, CI/CD e infraestructura.
+- **Fundamentos de DevOps**: Docker, CI/CD, automatizacion, infraestructura.
 
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
@@ -149,15 +149,6 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
 
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-## What I am building now
-
-- Un juego TUI en Rust, completo y jugable.
-- Habitos de Rust mas fuertes y codigo mejor organizado.
-- Un flujo de terminal mas rapido con omarchy.
-- Fundamentos de DevOps: Docker, CI/CD, automatizacion.
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
 ## Principles
 
 - Primero los fundamentos.
@@ -171,7 +162,7 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
 
 <table>
   <tr>
-    <td align="center" width="25%" style="background:#0B2A5B;border:1px solid #1269CC;border-radius:14px;padding:14px;">
+    <td align="center" width="20%" style="background:#0B2A5B;border:1px solid #1269CC;border-radius:14px;padding:14px;">
       <a href="https://github.com/Johannuel" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="40" />
       </a>
@@ -179,7 +170,15 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
       <strong style="color:#F0F6FC;">GitHub</strong><br />
       <sub style="color:#6D9AC7;">@Johannuel</sub>
     </td>
-    <td align="center" width="25%" style="background:#0B2A5B;border:1px solid #1269CC;border-radius:14px;padding:14px;">
+    <td align="center" width="20%" style="background:#0B2A5B;border:1px solid #1269CC;border-radius:14px;padding:14px;">
+      <a href="https://x.com/MF_coder" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.simpleicons.org/x/ffffff" alt="X" height="40" />
+      </a>
+      <br />
+      <strong style="color:#F0F6FC;">X</strong><br />
+      <sub style="color:#6D9AC7;">@MF_coder</sub>
+    </td>
+    <td align="center" width="20%" style="background:#0B2A5B;border:1px solid #1269CC;border-radius:14px;padding:14px;">
       <a href="https://discord.com/users/1515540388008431717" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/discord/ffffff" alt="Discord" height="40" />
       </a>
@@ -187,7 +186,7 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
       <strong style="color:#F0F6FC;">Discord</strong><br />
       <sub style="color:#6D9AC7;">mfv_code</sub>
     </td>
-    <td align="center" width="25%" style="background:#0B2A5B;border:1px solid #1269CC;border-radius:14px;padding:14px;">
+    <td align="center" width="20%" style="background:#0B2A5B;border:1px solid #1269CC;border-radius:14px;padding:14px;">
       <a href="https://hashnode.com/@mf-coder" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/hashnode/ffffff" alt="Hashnode" height="40" />
       </a>
@@ -195,7 +194,7 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
       <strong style="color:#F0F6FC;">Hashnode</strong><br />
       <sub style="color:#6D9AC7;">@mf-coder</sub>
     </td>
-    <td align="center" width="25%" style="background:#0B2A5B;border:1px solid #1269CC;border-radius:14px;padding:14px;">
+    <td align="center" width="20%" style="background:#0B2A5B;border:1px solid #1269CC;border-radius:14px;padding:14px;">
       <a href="https://instagram.com/chrollo_jv_" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/instagram/ffffff" alt="Instagram" height="40" />
       </a>
