@@ -106,46 +106,6 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw)
 
 </div>
 
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
-<h2 align="center">About</h2>
-
-<div align="center">
-
-- Base tecnica solida antes que frameworks.
-- Rust y la terminal como herramientas de trabajo.
-- Entender Linux, Git y sistemas por dentro.
-- Objetivo: construir y operar infraestructura como DevOps.
-
-</div>
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
-<h2 align="center">Skills</h2>
-
-<div align="center">
-
-| **Languages**<br />Rust, Python | **System**<br />Linux, Arch, Hyprland | **Version control**<br />Git / GitHub |
-| :---: | :---: | :---: |
-| **Style**<br />Console-first, minimal, direct | **Strengths**<br />Logic, debugging, structure | **Interests**<br />DevOps, data, systems |
-
-</div>
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
-<h2 align="center">Principles</h2>
-
-<div align="center">
-
-- Primero los fundamentos.
-- Menos ruido. Mas precision.
-- Probar, corregir, repetir.
-- Documentar tambien construye.
-
-</div>
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
 <h2 align="center">Find me</h2>
 
 <div align="center">
