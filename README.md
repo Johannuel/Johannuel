@@ -4,7 +4,7 @@
   <img src="./ratatui-spin-dark.gif" alt="" width="200" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
 
