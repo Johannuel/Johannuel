@@ -106,7 +106,7 @@ I like Rust 🦀 and Python 🐍 (I use Omarchy btw).
 
 </div>
 
-<h2 align="center">Find me</h2>
+<h2 align="center">Find me;</h2>
 
 <div align="center">
 
