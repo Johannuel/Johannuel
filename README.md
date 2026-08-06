@@ -68,7 +68,7 @@ I like Rust🦀 and Python🐍 (I use Omarchy btw).
     </td>
     <td align="center" width="25%">
       <img src="https://cdn.simpleicons.org/godotengine/1269CC" alt="Godot" height="40" />
-      <br /><strong>Godot enginer</strong>
+      <br /><strong>Godot </strong>
     </td>
     <td align="center" width="25%">
       <img src="https://cdn.simpleicons.org/obsidian/1269CC" alt="Obsidian" height="40" />
