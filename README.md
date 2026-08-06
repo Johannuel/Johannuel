@@ -18,6 +18,18 @@ Rust 🦀 · Python 🐍 · Omarchy (obviously).
 
 <br/>
 
+<h2 align="center">Currently learning</h2>
+
+<div align="center">
+
+| <img src="https://cdn.simpleicons.org/linux/51EEFC" alt="Linux" height="30"/> | <img src="https://cdn.simpleicons.org/networkmanager/51EEFC" alt="Networking" height="30"/> | <img src="https://cdn.simpleicons.org/git/51EEFC" alt="Git" height="30"/> | <img src="https://cdn.simpleicons.org/docker/51EEFC" alt="Docker" height="30"/> | <img src="https://cdn.simpleicons.org/amazonwebservices/51EEFC" alt="Cloud" height="30"/> |
+|---|---|---|---|---|
+| **Linux** | **Networking** | **Git** | **Docker** | **Cloud** |
+
+</div>
+
+<br/>
+
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
 <h2 align="center">Stack</h2>
