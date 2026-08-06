@@ -16,7 +16,7 @@ I like Rust🦀 and Python🐍 (I use Omarchy btw).
 
 </div>
 
-<br />
+<br/>
 
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
