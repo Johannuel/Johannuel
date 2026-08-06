@@ -114,6 +114,13 @@ Rust 🦀 · Python 🐍 · Omarchy (obviously).
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Johannuel/good-first-bot-rs" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/card-bot.svg" alt="good-first-bot-rs" width="80%" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
