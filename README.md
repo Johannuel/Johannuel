@@ -189,6 +189,6 @@ Rust 🦀 · Python 🐍 · Omarchy (obviously).
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Johannuel&theme=github-dark&hide_border=true)](https://github.com/Johannuel)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johannuel&layout=compact&theme=github-dark&hide_border=true)](https://github.com/Johannuel)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Johannuel&layout=compact&theme=dark&hide_border=true)](https://github.com/Johannuel)
 
 </div>
