@@ -64,11 +64,11 @@ I like Rust🦀 and Python🐍 (I use Omarchy btw).
   <tr>
     <td align="center" width="25%">
       <img src="https://cdn.simpleicons.org/zedindustries/1269CC" alt="Zed" height="40" />
-      <br /><strong>Zed</strong>
+      <br /><strong>Zed IDE</strong>
     </td>
     <td align="center" width="25%">
       <img src="https://cdn.simpleicons.org/godotengine/1269CC" alt="Godot" height="40" />
-      <br /><strong>Godot</strong>
+      <br /><strong>Godot enginer</strong>
     </td>
     <td align="center" width="25%">
       <img src="https://cdn.simpleicons.org/obsidian/1269CC" alt="Obsidian" height="40" />
