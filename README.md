@@ -186,4 +186,9 @@ Rust 🦀 · Python 🐍 · Omarchy (obviously).
 
 [![Johannuel's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Johannuel&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true)](https://github.com/Johannuel)
 
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Johannuel&theme=github-dark&hide_border=true)](https://github.com/Johannuel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johannuel&layout=compact&theme=github-dark&hide_border=true)](https://github.com/Johannuel)
+
 </div>
