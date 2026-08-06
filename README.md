@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./profile-banner.svg" alt="MF CODER banner" width="100%"/>
-  <br />
+  <br/>
   <img src="./ratatui-spin-dark.gif" alt="" width="200"/>
 </div>
 
