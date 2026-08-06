@@ -12,7 +12,7 @@
 
 Linux enthusiast, becoming a DevOps engineer.
 
-I like Rust🦀 and Python🐍 (I use Omarchy btw).
+Rust 🦀 · Python 🐍 · Omarchy (obviously).
 
 </div>
 
