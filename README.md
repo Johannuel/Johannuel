@@ -22,7 +22,7 @@ Rust 🦀 · Python 🐍 · Omarchy (obviously).
 
 <div align="center">
 
-| <img src="https://cdn.simpleicons.org/linux/51EEFC" alt="Linux" height="30"/> | <img src="https://cdn.simpleicons.org/networkmanager/51EEFC" alt="Networking" height="30"/> | <img src="https://cdn.simpleicons.org/git/51EEFC" alt="Git" height="30"/> | <img src="https://cdn.simpleicons.org/docker/51EEFC" alt="Docker" height="30"/> | <img src="https://cdn.simpleicons.org/amazonwebservices/51EEFC" alt="Cloud" height="30"/> |
+| <img src="https://cdn.simpleicons.org/linux/51EEFC" alt="Linux" height="30"/> | <img src="https://cdn.simpleicons.org/cisco/51EEFC" alt="Networking" height="30"/> | <img src="https://cdn.simpleicons.org/git/51EEFC" alt="Git" height="30"/> | <img src="https://cdn.simpleicons.org/docker/51EEFC" alt="Docker" height="30"/> | <img src="https://cdn.simpleicons.org/cloudflare/51EEFC" alt="Cloud" height="30"/> |
 |---|---|---|---|---|
 | **Linux** | **Networking** | **Git** | **Docker** | **Cloud** |
 
