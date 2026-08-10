@@ -12,7 +12,7 @@
 
 Linux enthusiast, becoming a DevOps engineer.
 
-Rust 🦀 · Python 🐍 · Omarchy (obviously).
+Rust 🦀 · Python🐍 · Omarchy (obviously).
 
 </div>
 
