@@ -184,7 +184,11 @@ Rust🦀 · Python🐍 · Omarchy (obviously).
 
 <div align="center">
 
-[![Johannuel's GitHub activity graph](https://gitchart.tanjunkiat.dev/58a6ff/0d1117/Johannuel)](https://github.com/Johannuel)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Johannuel/Johannuel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Johannuel/Johannuel/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Johannuel/Johannuel/output/github-snake.svg" />
+</picture>
 
 <br/>
 
