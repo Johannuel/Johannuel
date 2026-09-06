@@ -184,7 +184,7 @@ Rust🦀 · Python🐍 · Omarchy (obviously).
 
 <div align="center">
 
-[![Johannuel's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Johannuel&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true)](https://github.com/Johannuel)
+[![Johannuel's GitHub activity graph](https://gitchart.tanjunkiat.dev/58a6ff/0d1117/Johannuel)](https://github.com/Johannuel)
 
 <br/>
 
